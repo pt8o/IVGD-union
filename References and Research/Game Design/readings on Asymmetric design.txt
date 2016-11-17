@@ -1,0 +1,11 @@
+THIS one is really neat, esp because it deals with [hidden] information
+http://www.gamasutra.com/view/news/278512/Game_Design_Deep_Dive_Relaying_asymmetric_info_in_Eon_Altar.php
+
+Some rebuttals against Asymmetric game design:
+http://keithburgun.net/asymmetry-in-games/
+
+
+https://gamedesignconcepts.wordpress.com/2009/08/20/level-16-game-balance/
+https://boardgamegeek.com/thread/636692/game-balance-symmetry-vs-asymmetry
+
+Chapter 11 of The Art of Game Design: A Book of Lenses is pretty good imo.
