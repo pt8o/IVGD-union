@@ -23,7 +23,7 @@
 // THE SOFTWARE.
 
 
-Shader "Custom/Spritelamp"
+Shader "Sprites/Spritelamp"
 {
 	Properties
 	{
