@@ -90,7 +90,7 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>2048</int>
+            <int>4096</int>
             <key>height</key>
             <int>4096</int>
         </QSize>
@@ -197,36 +197,36 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">singleSprites/die_left/L_die_001.png</key>
-            <key type="filename">singleSprites/die_left/L_die_002.png</key>
-            <key type="filename">singleSprites/die_left/L_die_003.png</key>
-            <key type="filename">singleSprites/die_left/L_die_004.png</key>
-            <key type="filename">singleSprites/die_left/L_die_005.png</key>
-            <key type="filename">singleSprites/die_left/L_die_006.png</key>
-            <key type="filename">singleSprites/die_left/L_die_007.png</key>
-            <key type="filename">singleSprites/die_left/L_die_008.png</key>
-            <key type="filename">singleSprites/die_left/L_die_009.png</key>
-            <key type="filename">singleSprites/die_left/L_die_010.png</key>
-            <key type="filename">singleSprites/die_left/L_die_011.png</key>
-            <key type="filename">singleSprites/die_left/L_die_012.png</key>
-            <key type="filename">singleSprites/die_left/L_die_013.png</key>
-            <key type="filename">singleSprites/die_left/L_die_014.png</key>
-            <key type="filename">singleSprites/die_left/L_die_015.png</key>
-            <key type="filename">singleSprites/die_right/R_die_001.png</key>
-            <key type="filename">singleSprites/die_right/R_die_002.png</key>
-            <key type="filename">singleSprites/die_right/R_die_003.png</key>
-            <key type="filename">singleSprites/die_right/R_die_004.png</key>
-            <key type="filename">singleSprites/die_right/R_die_005.png</key>
-            <key type="filename">singleSprites/die_right/R_die_006.png</key>
-            <key type="filename">singleSprites/die_right/R_die_007.png</key>
-            <key type="filename">singleSprites/die_right/R_die_008.png</key>
-            <key type="filename">singleSprites/die_right/R_die_009.png</key>
-            <key type="filename">singleSprites/die_right/R_die_010.png</key>
-            <key type="filename">singleSprites/die_right/R_die_011.png</key>
-            <key type="filename">singleSprites/die_right/R_die_012.png</key>
-            <key type="filename">singleSprites/die_right/R_die_013.png</key>
-            <key type="filename">singleSprites/die_right/R_die_014.png</key>
-            <key type="filename">singleSprites/die_right/R_die_015.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_001.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_002.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_003.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_004.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_005.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_006.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_007.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_008.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_009.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_010.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_011.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_012.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_013.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_014.png</key>
+            <key type="filename">singleSprites/Front/die_left/L_die_015.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_001.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_002.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_003.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_004.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_005.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_006.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_007.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_008.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_009.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_010.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_011.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_012.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_013.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_014.png</key>
+            <key type="filename">singleSprites/Front/die_right/R_die_015.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -239,22 +239,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">singleSprites/hurt_left/L_hurt_000.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_001.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_002.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_003.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_004.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_005.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_006.png</key>
-            <key type="filename">singleSprites/hurt_left/L_hurt_007.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_000.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_001.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_002.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_003.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_004.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_005.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_006.png</key>
-            <key type="filename">singleSprites/hurt_right/R_hurt_007.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_000.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_001.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_002.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_003.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_004.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_005.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_006.png</key>
+            <key type="filename">singleSprites/Front/hurt_left/L_hurt_007.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_000.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_001.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_002.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_003.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_004.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_005.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_006.png</key>
+            <key type="filename">singleSprites/Front/hurt_right/R_hurt_007.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -267,22 +267,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">singleSprites/idle_left/L_idle_000.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_001.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_002.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_003.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_004.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_005.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_006.png</key>
-            <key type="filename">singleSprites/idle_left/L_idle_007.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_000.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_001.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_002.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_003.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_004.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_005.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_006.png</key>
-            <key type="filename">singleSprites/idle_right/R_idle_007.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_000.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_001.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_002.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_003.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_004.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_005.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_006.png</key>
+            <key type="filename">singleSprites/Front/idle_left/L_idle_007.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_000.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_001.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_002.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_003.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_004.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_005.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_006.png</key>
+            <key type="filename">singleSprites/Front/idle_right/R_idle_007.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -295,26 +295,26 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">singleSprites/jump_left/L_jump_000.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_001.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_002.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_003.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_004.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_005.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_006.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_007.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_008.png</key>
-            <key type="filename">singleSprites/jump_left/L_jump_009.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_000.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_001.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_002.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_003.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_004.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_005.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_006.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_007.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_008.png</key>
-            <key type="filename">singleSprites/jump_right/R_jump_009.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_000.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_001.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_002.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_003.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_004.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_005.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_006.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_007.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_008.png</key>
+            <key type="filename">singleSprites/Front/jump_left/L_jump_009.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_000.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_001.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_002.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_003.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_004.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_005.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_006.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_007.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_008.png</key>
+            <key type="filename">singleSprites/Front/jump_right/R_jump_009.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -327,38 +327,38 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">singleSprites/walk_left/L_walk_000.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_001.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_002.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_003.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_004.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_005.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_006.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_007.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_008.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_009.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_010.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_011.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_012.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_013.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_014.png</key>
-            <key type="filename">singleSprites/walk_left/L_walk_015.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_000.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_001.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_002.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_003.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_004.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_005.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_006.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_007.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_008.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_009.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_010.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_011.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_012.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_013.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_014.png</key>
-            <key type="filename">singleSprites/walk_right/R_walk_015.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_000.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_001.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_002.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_003.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_004.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_005.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_006.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_007.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_008.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_009.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_010.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_011.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_012.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_013.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_014.png</key>
+            <key type="filename">singleSprites/Front/walk_left/L_walk_015.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_000.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_001.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_002.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_003.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_004.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_005.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_006.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_007.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_008.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_009.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_010.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_011.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_012.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_013.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_014.png</key>
+            <key type="filename">singleSprites/Front/walk_right/R_walk_015.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>

@@ -118,6 +118,296 @@ TextureImporter:
     21300222: walk_right-R_walk_013
     21300224: walk_right-R_walk_014
     21300226: walk_right-R_walk_015
+    21300228: Back-die_left-Back_L_die_000
+    21300230: Back-die_left-Back_L_die_001
+    21300232: Back-die_left-Back_L_die_002
+    21300234: Back-die_left-Back_L_die_003
+    21300236: Back-die_left-Back_L_die_004
+    21300238: Back-die_left-Back_L_die_005
+    21300240: Back-die_left-Back_L_die_006
+    21300242: Back-die_left-Back_L_die_007
+    21300244: Back-die_left-Back_L_die_008
+    21300246: Back-die_left-Back_L_die_009
+    21300248: Back-die_left-Back_L_die_010
+    21300250: Back-die_left-Back_L_die_011
+    21300252: Back-die_left-Back_L_die_012
+    21300254: Back-die_left-Back_L_die_013
+    21300256: Back-die_left-Back_L_die_014
+    21300258: Back-die_left-Back_L_die_015
+    21300260: Back-die_right-Back_R_die_000
+    21300262: Back-die_right-Back_R_die_001
+    21300264: Back-die_right-Back_R_die_002
+    21300266: Back-die_right-Back_R_die_003
+    21300268: Back-die_right-Back_R_die_004
+    21300270: Back-die_right-Back_R_die_005
+    21300272: Back-die_right-Back_R_die_006
+    21300274: Back-die_right-Back_R_die_007
+    21300276: Back-die_right-Back_R_die_008
+    21300278: Back-die_right-Back_R_die_009
+    21300280: Back-die_right-Back_R_die_010
+    21300282: Back-die_right-Back_R_die_011
+    21300284: Back-die_right-Back_R_die_012
+    21300286: Back-die_right-Back_R_die_013
+    21300288: Back-die_right-Back_R_die_014
+    21300290: Back-die_right-Back_R_die_015
+    21300292: Back-hurt_left-Back_L_hurt_000
+    21300294: Back-hurt_left-Back_L_hurt_001
+    21300296: Back-hurt_left-Back_L_hurt_002
+    21300298: Back-hurt_left-Back_L_hurt_003
+    21300300: Back-hurt_left-Back_L_hurt_004
+    21300302: Back-hurt_left-Back_L_hurt_005
+    21300304: Back-hurt_left-Back_L_hurt_006
+    21300306: Back-hurt_left-Back_L_hurt_007
+    21300308: Back-hurt_left-Back_L_hurt_008
+    21300310: Back-hurt_left-Back_L_hurt_009
+    21300312: Back-hurt_left-Back_L_hurt_010
+    21300314: Back-hurt_left-Back_L_hurt_011
+    21300316: Back-hurt_left-Back_L_hurt_012
+    21300318: Back-hurt_left-Back_L_hurt_013
+    21300320: Back-hurt_left-Back_L_hurt_014
+    21300322: Back-hurt_left-Back_L_hurt_015
+    21300324: Back-hurt_right-Back_R_hurt_000
+    21300326: Back-hurt_right-Back_R_hurt_001
+    21300328: Back-hurt_right-Back_R_hurt_002
+    21300330: Back-hurt_right-Back_R_hurt_003
+    21300332: Back-hurt_right-Back_R_hurt_004
+    21300334: Back-hurt_right-Back_R_hurt_005
+    21300336: Back-hurt_right-Back_R_hurt_006
+    21300338: Back-hurt_right-Back_R_hurt_007
+    21300340: Back-hurt_right-Back_R_hurt_008
+    21300342: Back-hurt_right-Back_R_hurt_009
+    21300344: Back-hurt_right-Back_R_hurt_010
+    21300346: Back-hurt_right-Back_R_hurt_011
+    21300348: Back-hurt_right-Back_R_hurt_012
+    21300350: Back-hurt_right-Back_R_hurt_013
+    21300352: Back-hurt_right-Back_R_hurt_014
+    21300354: Back-hurt_right-Back_R_hurt_015
+    21300356: Back-idle_left-Back_L_idle_000
+    21300358: Back-idle_left-Back_L_idle_001
+    21300360: Back-idle_left-Back_L_idle_002
+    21300362: Back-idle_left-Back_L_idle_003
+    21300364: Back-idle_left-Back_L_idle_004
+    21300366: Back-idle_left-Back_L_idle_005
+    21300368: Back-idle_left-Back_L_idle_006
+    21300370: Back-idle_left-Back_L_idle_007
+    21300372: Back-idle_right-Back_R_idle_000
+    21300374: Back-idle_right-Back_R_idle_001
+    21300376: Back-idle_right-Back_R_idle_002
+    21300378: Back-idle_right-Back_R_idle_003
+    21300380: Back-idle_right-Back_R_idle_004
+    21300382: Back-idle_right-Back_R_idle_005
+    21300384: Back-idle_right-Back_R_idle_006
+    21300386: Back-idle_right-Back_R_idle_007
+    21300388: Back-jump_left-Back_L_jump_000
+    21300390: Back-jump_left-Back_L_jump_001
+    21300392: Back-jump_left-Back_L_jump_002
+    21300394: Back-jump_left-Back_L_jump_003
+    21300396: Back-jump_left-Back_L_jump_004
+    21300398: Back-jump_left-Back_L_jump_005
+    21300400: Back-jump_left-Back_L_jump_006
+    21300402: Back-jump_left-Back_L_jump_007
+    21300404: Back-jump_left-Back_L_jump_008
+    21300406: Back-jump_left-Back_L_jump_009
+    21300408: Back-jump_left-Back_L_jump_010
+    21300410: Back-jump_left-Back_L_jump_011
+    21300412: Back-jump_left-Back_L_jump_012
+    21300414: Back-jump_left-Back_L_jump_013
+    21300416: Back-jump_left-Back_L_jump_014
+    21300418: Back-jump_left-Back_L_jump_015
+    21300420: Back-jump_right-Back_R_jump_000
+    21300422: Back-jump_right-Back_R_jump_001
+    21300424: Back-jump_right-Back_R_jump_002
+    21300426: Back-jump_right-Back_R_jump_003
+    21300428: Back-jump_right-Back_R_jump_004
+    21300430: Back-jump_right-Back_R_jump_005
+    21300432: Back-jump_right-Back_R_jump_006
+    21300434: Back-jump_right-Back_R_jump_007
+    21300436: Back-jump_right-Back_R_jump_008
+    21300438: Back-jump_right-Back_R_jump_009
+    21300440: Back-jump_right-Back_R_jump_010
+    21300442: Back-jump_right-Back_R_jump_011
+    21300444: Back-jump_right-Back_R_jump_012
+    21300446: Back-jump_right-Back_R_jump_013
+    21300448: Back-jump_right-Back_R_jump_014
+    21300450: Back-jump_right-Back_R_jump_015
+    21300452: Back-walk_left-Back_L_walk_000
+    21300454: Back-walk_left-Back_L_walk_001
+    21300456: Back-walk_left-Back_L_walk_002
+    21300458: Back-walk_left-Back_L_walk_003
+    21300460: Back-walk_left-Back_L_walk_004
+    21300462: Back-walk_left-Back_L_walk_005
+    21300464: Back-walk_left-Back_L_walk_006
+    21300466: Back-walk_left-Back_L_walk_007
+    21300468: Back-walk_left-Back_L_walk_008
+    21300470: Back-walk_left-Back_L_walk_009
+    21300472: Back-walk_left-Back_L_walk_010
+    21300474: Back-walk_left-Back_L_walk_011
+    21300476: Back-walk_left-Back_L_walk_012
+    21300478: Back-walk_left-Back_L_walk_013
+    21300480: Back-walk_left-Back_L_walk_014
+    21300482: Back-walk_left-Back_L_walk_015
+    21300484: Back-walk_right-Back_R_walk_000
+    21300486: Back-walk_right-Back_R_walk_001
+    21300488: Back-walk_right-Back_R_walk_002
+    21300490: Back-walk_right-Back_R_walk_003
+    21300492: Back-walk_right-Back_R_walk_004
+    21300494: Back-walk_right-Back_R_walk_005
+    21300496: Back-walk_right-Back_R_walk_006
+    21300498: Back-walk_right-Back_R_walk_007
+    21300500: Back-walk_right-Back_R_walk_008
+    21300502: Back-walk_right-Back_R_walk_009
+    21300504: Back-walk_right-Back_R_walk_010
+    21300506: Back-walk_right-Back_R_walk_011
+    21300508: Back-walk_right-Back_R_walk_012
+    21300510: Back-walk_right-Back_R_walk_013
+    21300512: Back-walk_right-Back_R_walk_014
+    21300514: Back-walk_right-Back_R_walk_015
+    21300516: Front-die_left-L_die_001
+    21300518: Front-die_left-L_die_002
+    21300520: Front-die_left-L_die_003
+    21300522: Front-die_left-L_die_004
+    21300524: Front-die_left-L_die_005
+    21300526: Front-die_left-L_die_006
+    21300528: Front-die_left-L_die_007
+    21300530: Front-die_left-L_die_008
+    21300532: Front-die_left-L_die_009
+    21300534: Front-die_left-L_die_010
+    21300536: Front-die_left-L_die_011
+    21300538: Front-die_left-L_die_012
+    21300540: Front-die_left-L_die_013
+    21300542: Front-die_left-L_die_014
+    21300544: Front-die_left-L_die_015
+    21300546: Front-die_right-R_die_001
+    21300548: Front-die_right-R_die_002
+    21300550: Front-die_right-R_die_003
+    21300552: Front-die_right-R_die_004
+    21300554: Front-die_right-R_die_005
+    21300556: Front-die_right-R_die_006
+    21300558: Front-die_right-R_die_007
+    21300560: Front-die_right-R_die_008
+    21300562: Front-die_right-R_die_009
+    21300564: Front-die_right-R_die_010
+    21300566: Front-die_right-R_die_011
+    21300568: Front-die_right-R_die_012
+    21300570: Front-die_right-R_die_013
+    21300572: Front-die_right-R_die_014
+    21300574: Front-die_right-R_die_015
+    21300576: Front-hurt_left-L_hurt_000
+    21300578: Front-hurt_left-L_hurt_001
+    21300580: Front-hurt_left-L_hurt_002
+    21300582: Front-hurt_left-L_hurt_003
+    21300584: Front-hurt_left-L_hurt_004
+    21300586: Front-hurt_left-L_hurt_005
+    21300588: Front-hurt_left-L_hurt_006
+    21300590: Front-hurt_left-L_hurt_007
+    21300592: Front-hurt_right-R_hurt_000
+    21300594: Front-hurt_right-R_hurt_001
+    21300596: Front-hurt_right-R_hurt_002
+    21300598: Front-hurt_right-R_hurt_003
+    21300600: Front-hurt_right-R_hurt_004
+    21300602: Front-hurt_right-R_hurt_005
+    21300604: Front-hurt_right-R_hurt_006
+    21300606: Front-hurt_right-R_hurt_007
+    21300608: Front-idle_left-L_idle_000
+    21300610: Front-idle_left-L_idle_001
+    21300612: Front-idle_left-L_idle_002
+    21300614: Front-idle_left-L_idle_003
+    21300616: Front-idle_left-L_idle_004
+    21300618: Front-idle_left-L_idle_005
+    21300620: Front-idle_left-L_idle_006
+    21300622: Front-idle_left-L_idle_007
+    21300624: Front-idle_right-R_idle_000
+    21300626: Front-idle_right-R_idle_001
+    21300628: Front-idle_right-R_idle_002
+    21300630: Front-idle_right-R_idle_003
+    21300632: Front-idle_right-R_idle_004
+    21300634: Front-idle_right-R_idle_005
+    21300636: Front-idle_right-R_idle_006
+    21300638: Front-idle_right-R_idle_007
+    21300640: Front-jump_left-L_jump_000
+    21300642: Front-jump_left-L_jump_001
+    21300644: Front-jump_left-L_jump_002
+    21300646: Front-jump_left-L_jump_003
+    21300648: Front-jump_left-L_jump_004
+    21300650: Front-jump_left-L_jump_005
+    21300652: Front-jump_left-L_jump_006
+    21300654: Front-jump_left-L_jump_007
+    21300656: Front-jump_left-L_jump_008
+    21300658: Front-jump_left-L_jump_009
+    21300660: Front-jump_right-R_jump_000
+    21300662: Front-jump_right-R_jump_001
+    21300664: Front-jump_right-R_jump_002
+    21300666: Front-jump_right-R_jump_003
+    21300668: Front-jump_right-R_jump_004
+    21300670: Front-jump_right-R_jump_005
+    21300672: Front-jump_right-R_jump_006
+    21300674: Front-jump_right-R_jump_007
+    21300676: Front-jump_right-R_jump_008
+    21300678: Front-jump_right-R_jump_009
+    21300680: Front-walk_left-L_walk_000
+    21300682: Front-walk_left-L_walk_001
+    21300684: Front-walk_left-L_walk_002
+    21300686: Front-walk_left-L_walk_003
+    21300688: Front-walk_left-L_walk_004
+    21300690: Front-walk_left-L_walk_005
+    21300692: Front-walk_left-L_walk_006
+    21300694: Front-walk_left-L_walk_007
+    21300696: Front-walk_left-L_walk_008
+    21300698: Front-walk_left-L_walk_009
+    21300700: Front-walk_left-L_walk_010
+    21300702: Front-walk_left-L_walk_011
+    21300704: Front-walk_left-L_walk_012
+    21300706: Front-walk_left-L_walk_013
+    21300708: Front-walk_left-L_walk_014
+    21300710: Front-walk_left-L_walk_015
+    21300712: Front-walk_right-Back_L_walk_000
+    21300714: Front-walk_right-Back_L_walk_001
+    21300716: Front-walk_right-Back_L_walk_002
+    21300718: Front-walk_right-Back_L_walk_003
+    21300720: Front-walk_right-Back_L_walk_004
+    21300722: Front-walk_right-Back_L_walk_005
+    21300724: Front-walk_right-Back_L_walk_006
+    21300726: Front-walk_right-Back_L_walk_007
+    21300728: Front-walk_right-Back_L_walk_008
+    21300730: Front-walk_right-Back_L_walk_009
+    21300732: Front-walk_right-Back_L_walk_010
+    21300734: Front-walk_right-Back_L_walk_011
+    21300736: Front-walk_right-Back_L_walk_012
+    21300738: Front-walk_right-Back_L_walk_013
+    21300740: Front-walk_right-Back_L_walk_014
+    21300742: Front-walk_right-Back_L_walk_015
+    21300744: Front-walk_right-Back_R_walk_000
+    21300746: Front-walk_right-Back_R_walk_001
+    21300748: Front-walk_right-Back_R_walk_002
+    21300750: Front-walk_right-Back_R_walk_003
+    21300752: Front-walk_right-Back_R_walk_004
+    21300754: Front-walk_right-Back_R_walk_005
+    21300756: Front-walk_right-Back_R_walk_006
+    21300758: Front-walk_right-Back_R_walk_007
+    21300760: Front-walk_right-Back_R_walk_008
+    21300762: Front-walk_right-Back_R_walk_009
+    21300764: Front-walk_right-Back_R_walk_010
+    21300766: Front-walk_right-Back_R_walk_011
+    21300768: Front-walk_right-Back_R_walk_012
+    21300770: Front-walk_right-Back_R_walk_013
+    21300772: Front-walk_right-Back_R_walk_014
+    21300774: Front-walk_right-Back_R_walk_015
+    21300776: Front-walk_right-R_walk_000
+    21300778: Front-walk_right-R_walk_001
+    21300780: Front-walk_right-R_walk_002
+    21300782: Front-walk_right-R_walk_003
+    21300784: Front-walk_right-R_walk_004
+    21300786: Front-walk_right-R_walk_005
+    21300788: Front-walk_right-R_walk_006
+    21300790: Front-walk_right-R_walk_007
+    21300792: Front-walk_right-R_walk_008
+    21300794: Front-walk_right-R_walk_009
+    21300796: Front-walk_right-R_walk_010
+    21300798: Front-walk_right-R_walk_011
+    21300800: Front-walk_right-R_walk_012
+    21300802: Front-walk_right-R_walk_013
+    21300804: Front-walk_right-R_walk_014
+    21300806: Front-walk_right-R_walk_015
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -167,7 +457,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: die_left-L_die_001
+      name: Front-die_left-L_die_001
       rect:
         serializedVersion: 2
         x: 1535
@@ -180,7 +470,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_002
+      name: Front-die_left-L_die_002
       rect:
         serializedVersion: 2
         x: 171
@@ -193,7 +483,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_003
+      name: Front-die_left-L_die_003
       rect:
         serializedVersion: 2
         x: 794
@@ -206,7 +496,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_004
+      name: Front-die_left-L_die_004
       rect:
         serializedVersion: 2
         x: 286
@@ -219,7 +509,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_005
+      name: Front-die_left-L_die_005
       rect:
         serializedVersion: 2
         x: 583
@@ -232,7 +522,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_006
+      name: Front-die_left-L_die_006
       rect:
         serializedVersion: 2
         x: 140
@@ -245,7 +535,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_007
+      name: Front-die_left-L_die_007
       rect:
         serializedVersion: 2
         x: 1
@@ -258,7 +548,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_008
+      name: Front-die_left-L_die_008
       rect:
         serializedVersion: 2
         x: 1761
@@ -271,7 +561,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_009
+      name: Front-die_left-L_die_009
       rect:
         serializedVersion: 2
         x: 839
@@ -284,7 +574,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_010
+      name: Front-die_left-L_die_010
       rect:
         serializedVersion: 2
         x: 1375
@@ -297,7 +587,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_011
+      name: Front-die_left-L_die_011
       rect:
         serializedVersion: 2
         x: 1
@@ -310,7 +600,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_012
+      name: Front-die_left-L_die_012
       rect:
         serializedVersion: 2
         x: 270
@@ -323,7 +613,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_013
+      name: Front-die_left-L_die_013
       rect:
         serializedVersion: 2
         x: 1
@@ -336,7 +626,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_014
+      name: Front-die_left-L_die_014
       rect:
         serializedVersion: 2
         x: 292
@@ -349,7 +639,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_left-L_die_015
+      name: Front-die_left-L_die_015
       rect:
         serializedVersion: 2
         x: 582
@@ -362,7 +652,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_001
+      name: Front-die_right-R_die_001
       rect:
         serializedVersion: 2
         x: 1369
@@ -375,7 +665,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_002
+      name: Front-die_right-R_die_002
       rect:
         serializedVersion: 2
         x: 453
@@ -388,7 +678,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_003
+      name: Front-die_right-R_die_003
       rect:
         serializedVersion: 2
         x: 1531
@@ -401,7 +691,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_004
+      name: Front-die_right-R_die_004
       rect:
         serializedVersion: 2
         x: 711
@@ -414,7 +704,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_005
+      name: Front-die_right-R_die_005
       rect:
         serializedVersion: 2
         x: 339
@@ -427,7 +717,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_006
+      name: Front-die_right-R_die_006
       rect:
         serializedVersion: 2
         x: 1
@@ -440,7 +730,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_007
+      name: Front-die_right-R_die_007
       rect:
         serializedVersion: 2
         x: 204
@@ -453,7 +743,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_008
+      name: Front-die_right-R_die_008
       rect:
         serializedVersion: 2
         x: 1815
@@ -466,7 +756,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_009
+      name: Front-die_right-R_die_009
       rect:
         serializedVersion: 2
         x: 1612
@@ -479,7 +769,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_010
+      name: Front-die_right-R_die_010
       rect:
         serializedVersion: 2
         x: 1133
@@ -492,7 +782,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_011
+      name: Front-die_right-R_die_011
       rect:
         serializedVersion: 2
         x: 1133
@@ -505,7 +795,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_012
+      name: Front-die_right-R_die_012
       rect:
         serializedVersion: 2
         x: 871
@@ -518,7 +808,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_013
+      name: Front-die_right-R_die_013
       rect:
         serializedVersion: 2
         x: 579
@@ -531,7 +821,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_014
+      name: Front-die_right-R_die_014
       rect:
         serializedVersion: 2
         x: 1
@@ -544,7 +834,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: die_right-R_die_015
+      name: Front-die_right-R_die_015
       rect:
         serializedVersion: 2
         x: 292
@@ -557,7 +847,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_000
+      name: Front-hurt_left-L_hurt_000
       rect:
         serializedVersion: 2
         x: 1525
@@ -570,7 +860,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_001
+      name: Front-hurt_left-L_hurt_001
       rect:
         serializedVersion: 2
         x: 625
@@ -583,7 +873,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_002
+      name: Front-hurt_left-L_hurt_002
       rect:
         serializedVersion: 2
         x: 150
@@ -596,7 +886,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_003
+      name: Front-hurt_left-L_hurt_003
       rect:
         serializedVersion: 2
         x: 148
@@ -609,7 +899,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_004
+      name: Front-hurt_left-L_hurt_004
       rect:
         serializedVersion: 2
         x: 794
@@ -622,7 +912,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_005
+      name: Front-hurt_left-L_hurt_005
       rect:
         serializedVersion: 2
         x: 635
@@ -635,7 +925,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_006
+      name: Front-hurt_left-L_hurt_006
       rect:
         serializedVersion: 2
         x: 1677
@@ -648,7 +938,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_left-L_hurt_007
+      name: Front-hurt_left-L_hurt_007
       rect:
         serializedVersion: 2
         x: 922
@@ -661,7 +951,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_000
+      name: Front-hurt_right-R_hurt_000
       rect:
         serializedVersion: 2
         x: 434
@@ -674,7 +964,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_001
+      name: Front-hurt_right-R_hurt_001
       rect:
         serializedVersion: 2
         x: 1
@@ -687,7 +977,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_002
+      name: Front-hurt_right-R_hurt_002
       rect:
         serializedVersion: 2
         x: 1217
@@ -700,7 +990,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_003
+      name: Front-hurt_right-R_hurt_003
       rect:
         serializedVersion: 2
         x: 779
@@ -713,7 +1003,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_004
+      name: Front-hurt_right-R_hurt_004
       rect:
         serializedVersion: 2
         x: 1
@@ -726,7 +1016,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_005
+      name: Front-hurt_right-R_hurt_005
       rect:
         serializedVersion: 2
         x: 986
@@ -739,7 +1029,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_006
+      name: Front-hurt_right-R_hurt_006
       rect:
         serializedVersion: 2
         x: 944
@@ -752,7 +1042,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: hurt_right-R_hurt_007
+      name: Front-hurt_right-R_hurt_007
       rect:
         serializedVersion: 2
         x: 695
@@ -765,7 +1055,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_000
+      name: Front-idle_left-L_idle_000
       rect:
         serializedVersion: 2
         x: 1236
@@ -778,7 +1068,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_001
+      name: Front-idle_left-L_idle_001
       rect:
         serializedVersion: 2
         x: 1914
@@ -791,7 +1081,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_002
+      name: Front-idle_left-L_idle_002
       rect:
         serializedVersion: 2
         x: 1200
@@ -804,7 +1094,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_003
+      name: Front-idle_left-L_idle_003
       rect:
         serializedVersion: 2
         x: 282
@@ -817,7 +1107,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_004
+      name: Front-idle_left-L_idle_004
       rect:
         serializedVersion: 2
         x: 1409
@@ -830,7 +1120,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_005
+      name: Front-idle_left-L_idle_005
       rect:
         serializedVersion: 2
         x: 419
@@ -843,7 +1133,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_006
+      name: Front-idle_left-L_idle_006
       rect:
         serializedVersion: 2
         x: 1336
@@ -856,7 +1146,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_left-L_idle_007
+      name: Front-idle_left-L_idle_007
       rect:
         serializedVersion: 2
         x: 1914
@@ -869,7 +1159,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_000
+      name: Front-idle_right-R_idle_000
       rect:
         serializedVersion: 2
         x: 892
@@ -882,7 +1172,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_001
+      name: Front-idle_right-R_idle_001
       rect:
         serializedVersion: 2
         x: 724
@@ -895,7 +1185,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_002
+      name: Front-idle_right-R_idle_002
       rect:
         serializedVersion: 2
         x: 1029
@@ -908,7 +1198,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_003
+      name: Front-idle_right-R_idle_003
       rect:
         serializedVersion: 2
         x: 574
@@ -921,7 +1211,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_004
+      name: Front-idle_right-R_idle_004
       rect:
         serializedVersion: 2
         x: 1
@@ -934,7 +1224,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_005
+      name: Front-idle_right-R_idle_005
       rect:
         serializedVersion: 2
         x: 426
@@ -947,7 +1237,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_006
+      name: Front-idle_right-R_idle_006
       rect:
         serializedVersion: 2
         x: 861
@@ -960,7 +1250,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: idle_right-R_idle_007
+      name: Front-idle_right-R_idle_007
       rect:
         serializedVersion: 2
         x: 1200
@@ -973,7 +1263,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_000
+      name: Front-jump_left-L_jump_000
       rect:
         serializedVersion: 2
         x: 1391
@@ -986,7 +1276,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_001
+      name: Front-jump_left-L_jump_001
       rect:
         serializedVersion: 2
         x: 1050
@@ -999,7 +1289,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_002
+      name: Front-jump_left-L_jump_002
       rect:
         serializedVersion: 2
         x: 525
@@ -1012,7 +1302,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_003
+      name: Front-jump_left-L_jump_003
       rect:
         serializedVersion: 2
         x: 1370
@@ -1025,7 +1315,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_004
+      name: Front-jump_left-L_jump_004
       rect:
         serializedVersion: 2
         x: 1698
@@ -1038,7 +1328,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_005
+      name: Front-jump_left-L_jump_005
       rect:
         serializedVersion: 2
         x: 1856
@@ -1051,7 +1341,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_006
+      name: Front-jump_left-L_jump_006
       rect:
         serializedVersion: 2
         x: 376
@@ -1064,7 +1354,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_007
+      name: Front-jump_left-L_jump_007
       rect:
         serializedVersion: 2
         x: 1050
@@ -1077,7 +1367,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_008
+      name: Front-jump_left-L_jump_008
       rect:
         serializedVersion: 2
         x: 1370
@@ -1090,7 +1380,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_left-L_jump_009
+      name: Front-jump_left-L_jump_009
       rect:
         serializedVersion: 2
         x: 488
@@ -1103,7 +1393,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_000
+      name: Front-jump_right-R_jump_000
       rect:
         serializedVersion: 2
         x: 144
@@ -1116,7 +1406,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_001
+      name: Front-jump_right-R_jump_001
       rect:
         serializedVersion: 2
         x: 1555
@@ -1129,7 +1419,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_002
+      name: Front-jump_right-R_jump_002
       rect:
         serializedVersion: 2
         x: 246
@@ -1142,7 +1432,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_003
+      name: Front-jump_right-R_jump_003
       rect:
         serializedVersion: 2
         x: 1
@@ -1155,7 +1445,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_004
+      name: Front-jump_right-R_jump_004
       rect:
         serializedVersion: 2
         x: 1370
@@ -1168,7 +1458,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_005
+      name: Front-jump_right-R_jump_005
       rect:
         serializedVersion: 2
         x: 1217
@@ -1181,7 +1471,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_006
+      name: Front-jump_right-R_jump_006
       rect:
         serializedVersion: 2
         x: 732
@@ -1194,7 +1484,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_007
+      name: Front-jump_right-R_jump_007
       rect:
         serializedVersion: 2
         x: 1569
@@ -1207,7 +1497,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_008
+      name: Front-jump_right-R_jump_008
       rect:
         serializedVersion: 2
         x: 1735
@@ -1220,7 +1510,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: jump_right-R_jump_009
+      name: Front-jump_right-R_jump_009
       rect:
         serializedVersion: 2
         x: 904
@@ -1233,7 +1523,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_000
+      name: Front-walk_left-L_walk_000
       rect:
         serializedVersion: 2
         x: 143
@@ -1246,7 +1536,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_001
+      name: Front-walk_left-L_walk_001
       rect:
         serializedVersion: 2
         x: 1091
@@ -1259,7 +1549,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_002
+      name: Front-walk_left-L_walk_002
       rect:
         serializedVersion: 2
         x: 842
@@ -1272,7 +1562,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_003
+      name: Front-walk_left-L_walk_003
       rect:
         serializedVersion: 2
         x: 169
@@ -1285,7 +1575,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_004
+      name: Front-walk_left-L_walk_004
       rect:
         serializedVersion: 2
         x: 1689
@@ -1298,7 +1588,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_005
+      name: Front-walk_left-L_walk_005
       rect:
         serializedVersion: 2
         x: 1840
@@ -1311,7 +1601,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_006
+      name: Front-walk_left-L_walk_006
       rect:
         serializedVersion: 2
         x: 1
@@ -1324,7 +1614,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_007
+      name: Front-walk_left-L_walk_007
       rect:
         serializedVersion: 2
         x: 545
@@ -1337,7 +1627,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_008
+      name: Front-walk_left-L_walk_008
       rect:
         serializedVersion: 2
         x: 609
@@ -1350,7 +1640,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_009
+      name: Front-walk_left-L_walk_009
       rect:
         serializedVersion: 2
         x: 441
@@ -1363,7 +1653,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_010
+      name: Front-walk_left-L_walk_010
       rect:
         serializedVersion: 2
         x: 1807
@@ -1376,7 +1666,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_011
+      name: Front-walk_left-L_walk_011
       rect:
         serializedVersion: 2
         x: 1547
@@ -1389,7 +1679,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_012
+      name: Front-walk_left-L_walk_012
       rect:
         serializedVersion: 2
         x: 318
@@ -1402,7 +1692,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_013
+      name: Front-walk_left-L_walk_013
       rect:
         serializedVersion: 2
         x: 563
@@ -1415,7 +1705,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_014
+      name: Front-walk_left-L_walk_014
       rect:
         serializedVersion: 2
         x: 1531
@@ -1428,7 +1718,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_left-L_walk_015
+      name: Front-walk_left-L_walk_015
       rect:
         serializedVersion: 2
         x: 1244
@@ -1441,7 +1731,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_000
+      name: Front-walk_right-R_walk_000
       rect:
         serializedVersion: 2
         x: 297
@@ -1454,7 +1744,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_001
+      name: Front-walk_right-R_walk_001
       rect:
         serializedVersion: 2
         x: 1
@@ -1467,7 +1757,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_002
+      name: Front-walk_right-R_walk_002
       rect:
         serializedVersion: 2
         x: 1822
@@ -1480,7 +1770,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_003
+      name: Front-walk_right-R_walk_003
       rect:
         serializedVersion: 2
         x: 945
@@ -1493,7 +1783,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_004
+      name: Front-walk_right-R_walk_004
       rect:
         serializedVersion: 2
         x: 1237
@@ -1506,7 +1796,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_005
+      name: Front-walk_right-R_walk_005
       rect:
         serializedVersion: 2
         x: 1095
@@ -1519,7 +1809,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_006
+      name: Front-walk_right-R_walk_006
       rect:
         serializedVersion: 2
         x: 1
@@ -1532,7 +1822,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_007
+      name: Front-walk_right-R_walk_007
       rect:
         serializedVersion: 2
         x: 465
@@ -1545,7 +1835,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_008
+      name: Front-walk_right-R_walk_008
       rect:
         serializedVersion: 2
         x: 292
@@ -1558,7 +1848,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_009
+      name: Front-walk_right-R_walk_009
       rect:
         serializedVersion: 2
         x: 1129
@@ -1571,7 +1861,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_010
+      name: Front-walk_right-R_walk_010
       rect:
         serializedVersion: 2
         x: 1666
@@ -1584,7 +1874,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_011
+      name: Front-walk_right-R_walk_011
       rect:
         serializedVersion: 2
         x: 1063
@@ -1597,7 +1887,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_012
+      name: Front-walk_right-R_walk_012
       rect:
         serializedVersion: 2
         x: 751
@@ -1610,7 +1900,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_013
+      name: Front-walk_right-R_walk_013
       rect:
         serializedVersion: 2
         x: 277
@@ -1623,7 +1913,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_014
+      name: Front-walk_right-R_walk_014
       rect:
         serializedVersion: 2
         x: 1270
@@ -1636,7 +1926,7 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: walk_right-R_walk_015
+      name: Front-walk_right-R_walk_015
       rect:
         serializedVersion: 2
         x: 1383
