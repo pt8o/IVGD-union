@@ -12,7 +12,6 @@ Shader "Custom/toonShader" {
 		_SpecColor("Specular Material Color", Color) = (1,1,1,1)
 		_Shiny("Shiny", Range(0.5,1)) = 1
 		_OutlineThickness("Outline Thickness", Range(0,1)) = 0.1
-		_OutlineColor("Outline Color", Color)= (0,0,0,1)
 		_MainTex("Main Texture", 2D) = "defaultTexture" {}
 		
 
@@ -40,7 +39,6 @@ Shader "Custom/toonShader" {
 		uniform float _DiffuseThreshold;
 		uniform float4 _SpecColor;
 		uniform float _Shiny;
-		uniform float4 _OutlineColor;
 		uniform float _OutlineThickness;
 
 		//unity defined properties 
@@ -106,10 +104,8 @@ Shader "Custom/toonShader" {
 	//Diffuse threshold
 	float diffuseCutoff = saturate((max(_DiffuseThreshold, nDotL) - _DiffuseThreshold) * 1000);
 	
-
 	//Specular threshold
 	float specularCutoff = saturate(max(_Shiny, dot(reflect(-input.lightDir.xyz, input.normalDir), input.viewDir)) - _Shiny) * 1000;
-	
 
 	//Outlines
 	float outlineStrength = saturate((dot(input.normalDir, input.viewDir) - _OutlineThickness) * 1000);
@@ -119,12 +115,12 @@ Shader "Custom/toonShader" {
 	float3 ambientLight = (1 - diffuseCutoff) * _UnlitColor.xyz; 
 	float3 diffuseReflection = (1 - specularCutoff) * _Color.xyz * diffuseCutoff;
 	float3 specularReflection = _SpecColor.xyz * specularCutoff;
-	float3 outlineColor = _OutlineColor.xyz * outlineStrength;
+	
 	
 
 	float3 combinedLight = (ambientLight + diffuseReflection) * outlineStrength + specularReflection; 
 
-	return float4(combinedLight, 1.0)  +tex2D(_MainTex, input.uv); //commented out the texture addition, as it doesn't really work that well.
+	return float4(combinedLight, 1.0)  +tex2D(_MainTex, input.uv); //comment out the texture addition, as it doesn't really work that well.
 
 
 	}
