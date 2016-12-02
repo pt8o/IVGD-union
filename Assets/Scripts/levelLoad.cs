@@ -7,8 +7,8 @@ public class levelLoad : MonoBehaviour {
 	 * LevelMaster has the levelLoad.cs script. This script has all of the level prefabs loaded into is GameObject array.
 	 * EVERY LEVEL prefab must have the following elements:
 	 * 	- Level itself is empty game object
-	 * 	- Empty "SpawnOrigin" object, where this level structure starts
 	 * 	- Level structure itself
+	 * 	- Make sure level structure is set up so that level parent object (which is empty) is centered on the intended spawn point!
 	 * 	- Trigger, with the levelTrigger.cs script
 	 * 	- Empty "SpawnNext" object, where this level ends and the next one is to start
 	 * 
@@ -18,7 +18,7 @@ public class levelLoad : MonoBehaviour {
 
 	public GameObject[] allLevels;
 
-	private int levelCount = 0;
+	public int levelCount = 0;
 
 	private GameObject thisLevel;
 	private GameObject nextLevel;
@@ -36,12 +36,13 @@ public class levelLoad : MonoBehaviour {
 		nextLevel = allLevels [levelCount + 1];
 
 		spawnPoint = thisLevel.transform.Find ("SpawnNext");
-		spawnDifference = nextLevel.transform.Find ("SpawnOrigin").localPosition - nextLevel.transform.localPosition;
+
+		Debug.Log (spawnDifference);
 	}
 
 	public void levelTrigger() {
 		if (levelCount < allLevels.Length) {
-			Instantiate (nextLevel, spawnPoint.position - spawnDifference, spawnPoint.rotation);
+			Instantiate (nextLevel, spawnPoint.position, spawnPoint.rotation);
 
 			levelCount += 1;
 
