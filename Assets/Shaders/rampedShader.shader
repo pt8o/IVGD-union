@@ -19,12 +19,12 @@
 		sampler2D _Ramp;
 		fixed4 _Color;
 	   
-	half4 LightingRamp(SurfaceOutput s, half3 lightDirection, half atten) {
+	half4 LightingRamp(SurfaceOutput s, half3 lightDirection, half attenuate) {
 		half NdotL = dot(s.Normal, lightDirection);
 		half diff = NdotL * 0.5 + 0.5;
-		half3 ramp = tex2D(_Ramp, float2(diff,1)).rgb;
+		half3 ramp = tex2D(_Ramp, float2(diff,0)).rgb;
 		half4 c;
-		c.rgb = s.Albedo * _LightColor0.rgb * ramp * (atten * 2);
+		c.rgb = s.Albedo * _LightColor0.rgb * ramp * (attenuate * 2);
 		c.a = s.Alpha;
 		return c;
 

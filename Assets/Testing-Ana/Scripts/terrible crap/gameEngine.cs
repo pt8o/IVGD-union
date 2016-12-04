@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿
+
+using UnityEngine;
 using System.Collections;
 using System.Xml;
 using System.Xml.Serialization;
@@ -10,53 +12,7 @@ using UnityEngine.SceneManagement;
 //it also incorporates the fade class for fading in/out between scenes
 //-----------------------------------------------------
 
-
-//--- SERIALIZING QUATERNIONS
-// for more information on structs, go here: https://msdn.microsoft.com/en-us/library/0taef578.aspx
-//also, tl;dr for wtf is a quaternion: https://en.wikipedia.org/wiki/Quaternion
-
-[System.Serializable]
-public struct SerializableQuaternion
-{
-    //quaternions need x, y, z, and w elements.
-    public float x;
-    public float y;
-    public float z;
-    public float w;
-
-    //now we have a public function.
-    public SerializableQuaternion(float rX, float rY, float rZ, float rW)
-    {
-        x = rX;
-        y = rY;
-        z = rZ;
-        w = rW;
-    }
-
-    //now let's return a string representation of the Quaternion 
-    public override string ToString()
-    {
-        return string.Format("[{0},{1},{2},{3}]", x, y, z, w);
-    }
-
-    //and this is to automatically (implicitly) convert from SerializeQuaternion to Quaternion.
-    public static implicit operator Quaternion(SerializableQuaternion rValue)
-    {
-        return new Quaternion(rValue.x, rValue.y, rValue.z, rValue.w);
-    }
-
-    //automatically convert from Quaternion to SerializeQuaternion.
-    public static implicit operator SerializableQuaternion(Quaternion rValue)
-    {
-        return new SerializableQuaternion(rValue.x, rValue.y, rValue.z, rValue.w);
-    }
-
-    //TREMBLE BEFORE MY CUSTOM SERIALIZABLE QUATERNIONS
-}
-
-
-
-
+   
 public class SceneObjectData
 {
     //object name
@@ -90,10 +46,7 @@ public class gameEngine : MonoBehaviour
 {
    
 
-    void newGame()
-    {
-
-    }
+   
 
 
     void Load()
@@ -196,7 +149,7 @@ public class Fade : MonoBehaviour
      * 
      * }
      * */
-
+     
     void onEnable()
     {
         //tell OnLevelFinishedLoading to start listening for a scene change.

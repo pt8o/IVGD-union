@@ -3,7 +3,7 @@ using System.Collections;
 
 public class levelLoad : MonoBehaviour {
 
-	/* YO HERE'S HOW THIS WORKS
+    /* YO HERE'S HOW THIS WORKS
 	 * LevelMaster has the levelLoad.cs script. This script has all of the level prefabs loaded into is GameObject array.
 	 * EVERY LEVEL prefab must have the following elements:
 	 * 	- Level itself is empty game object
@@ -16,9 +16,10 @@ public class levelLoad : MonoBehaviour {
 	 * 
 	 */
 
+    public GameObject saveFile;
 	public GameObject[] allLevels;
 
-	private int levelCount = 0;
+	public int levelCount = 0;
 
 	private GameObject thisLevel;
 	private GameObject nextLevel;
@@ -37,7 +38,9 @@ public class levelLoad : MonoBehaviour {
 
 		spawnPoint = thisLevel.transform.Find ("SpawnNext");
 		spawnDifference = nextLevel.transform.Find ("SpawnOrigin").localPosition - nextLevel.transform.localPosition;
-	}
+        saveFile.GetComponent<Data>().SaveData();
+
+    }
 
 	public void levelTrigger() {
 		if (levelCount < allLevels.Length) {
