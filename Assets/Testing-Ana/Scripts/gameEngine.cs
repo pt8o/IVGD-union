@@ -200,14 +200,14 @@ public class Fade : MonoBehaviour
     void onEnable()
     {
         //tell OnLevelFinishedLoading to start listening for a scene change.
-        SceneManager.sceneLoaded += OnLevelFinishedLoading;
+//        SceneManager.sceneLoaded += OnLevelFinishedLoading;
 
     }
 
     void onDisable()
     {
         //tell OnLevelFinishedLoading to stop listening for scene changes.
-        SceneManager.sceneLoaded -= OnLevelFinishedLoading;
+//        SceneManager.sceneLoaded -= OnLevelFinishedLoading;
     }
 
     void OnLevelFinishedLoading(Scene scene, LoadSceneMode mode)
