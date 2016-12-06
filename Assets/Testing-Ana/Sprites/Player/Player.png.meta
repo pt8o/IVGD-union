@@ -450,11 +450,14 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Front-die_left-L_die_001
+    - serializedVersion: 2
+      name: Front-die_left-L_die_001
       rect:
         serializedVersion: 2
         x: 1535
@@ -464,20 +467,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.61801267, y: 0.46896565}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 43.5, y: 115}
-        - {x: -5.5, y: 153}
-        - {x: -68.5, y: 153}
-        - {x: -75.5, y: 148}
-        - {x: -90.5, y: 119}
-        - {x: -90.5, y: 66}
-        - {x: -87.5, y: 61}
-        - {x: -82.5, y: -68}
-        - {x: -50.5, y: -135}
-        - {x: 30.5, y: -135}
-        - {x: 58.5, y: -109}
-        - {x: 58.5, y: 16}
-    - name: Front-die_left-L_die_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_002
       rect:
         serializedVersion: 2
         x: 171
@@ -487,20 +480,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6234942, y: 0.4620691}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 14.4999695, y: -133}
-        - {x: 38.49997, y: -133}
-        - {x: 61.49997, y: -126}
-        - {x: 61.49997, y: 28}
-        - {x: 31.49997, y: 149}
-        - {x: -97.50003, y: 149}
-        - {x: -97.50003, y: -116}
-        - {x: -49.50003, y: -131}
-        - {x: -42.50003, y: -133}
-        - {x: -31.50003, y: -133}
-        - {x: -31.50003, y: -119}
-        - {x: 3.4999695, y: -130}
-    - name: Front-die_left-L_die_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_003
       rect:
         serializedVersion: 2
         x: 794
@@ -510,18 +493,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6006714, y: 0.4580421}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7.499939, y: 151}
-        - {x: -62.50006, y: 151}
-        - {x: -89.50006, y: 137}
-        - {x: -89.50006, y: 16}
-        - {x: -84.50006, y: -60}
-        - {x: -56.50006, y: -131}
-        - {x: 39.49994, y: -131}
-        - {x: 59.49994, y: -103}
-        - {x: 59.49994, y: -10}
-        - {x: 18.499939, y: 140}
-    - name: Front-die_left-L_die_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_004
       rect:
         serializedVersion: 2
         x: 286
@@ -531,17 +506,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5833336, y: 0.4532873}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 51.49997, y: 145}
-        - {x: 30.49997, y: 155}
-        - {x: -44.50003, y: 155}
-        - {x: -75.50003, y: 146}
-        - {x: -75.50003, y: -94}
-        - {x: -62.50003, y: -130}
-        - {x: 33.49997, y: -130}
-        - {x: 55.49997, y: -111}
-        - {x: 55.49997, y: 112}
-    - name: Front-die_left-L_die_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_005
       rect:
         serializedVersion: 2
         x: 583
@@ -551,17 +519,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6007197, y: 0.4467355}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53.49994, y: 143}
-        - {x: 24.499939, y: 156}
-        - {x: -59.50006, y: 156}
-        - {x: -77.50006, y: 138}
-        - {x: -77.50006, y: -88}
-        - {x: -56.50006, y: -130}
-        - {x: 32.49994, y: -130}
-        - {x: 44.49994, y: -127}
-        - {x: 53.49994, y: -81}
-    - name: Front-die_left-L_die_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_006
       rect:
         serializedVersion: 2
         x: 140
@@ -571,16 +532,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.58148175, y: 0.45833346}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8.4999695, y: 156}
-        - {x: -59.50003, y: 156}
-        - {x: -75.50003, y: 113}
-        - {x: -75.50003, y: -131}
-        - {x: 46.49997, y: -131}
-        - {x: 48.49997, y: -126}
-        - {x: 54.49997, y: -86}
-        - {x: 54.49997, y: 120}
-    - name: Front-die_left-L_die_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_007
       rect:
         serializedVersion: 2
         x: 1
@@ -590,19 +545,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6054219, y: 0.46643123}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 27.499962, y: 121}
-        - {x: -7.500038, y: 149}
-        - {x: -67.50004, y: 149}
-        - {x: -98.50004, y: 129}
-        - {x: -98.50004, y: 47}
-        - {x: -84.50004, y: 7}
-        - {x: -64.50004, y: -132}
-        - {x: 57.49996, y: -132}
-        - {x: 63.49996, y: -97}
-        - {x: 63.49996, y: -41}
-        - {x: 59.49996, y: -24}
-    - name: Front-die_left-L_die_008
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_008
       rect:
         serializedVersion: 2
         x: 1761
@@ -612,22 +558,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6081083, y: 0.47857156}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 65.5, y: -122}
-        - {x: 65.5, y: -19}
-        - {x: 64.5, y: -12}
-        - {x: -5.5, y: 144}
-        - {x: -84.5, y: 144}
-        - {x: -111.5, y: 123}
-        - {x: -111.5, y: 54}
-        - {x: -92.5, y: 41}
-        - {x: -65.5, y: -87}
-        - {x: -30.5, y: -131}
-        - {x: -22.5, y: -131}
-        - {x: -15.5, y: -127}
-        - {x: -15.5, y: -121}
-        - {x: 48.5, y: -129}
-    - name: Front-die_left-L_die_009
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_009
       rect:
         serializedVersion: 2
         x: 839
@@ -637,21 +571,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6626796, y: 0.48134342}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 61.49994, y: -34}
-        - {x: -22.500061, y: 96}
-        - {x: -43.50006, y: 123}
-        - {x: -51.50006, y: 125}
-        - {x: -93.50006, y: 125}
-        - {x: -128.50006, y: 104}
-        - {x: -128.50006, y: 32}
-        - {x: -63.50006, y: -102}
-        - {x: -43.50006, y: -118}
-        - {x: -16.500061, y: -129}
-        - {x: 64.49994, y: -129}
-        - {x: 66.49994, y: -123}
-        - {x: 66.49994, y: -41}
-    - name: Front-die_left-L_die_010
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_010
       rect:
         serializedVersion: 2
         x: 1375
@@ -661,22 +584,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6787236, y: 0.535565}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44.5, y: -119}
-        - {x: 54.5, y: -116}
-        - {x: 72.5, y: -109}
-        - {x: 72.5, y: -16}
-        - {x: -0.5, y: 101}
-        - {x: -140.5, y: 101}
-        - {x: -151.5, y: 90}
-        - {x: -151.5, y: 7}
-        - {x: -122.5, y: -41}
-        - {x: -37.5, y: -125}
-        - {x: 11.5, y: -125}
-        - {x: 8.5, y: -114}
-        - {x: 3.5, y: -110}
-        - {x: 27.5, y: -117}
-    - name: Front-die_left-L_die_011
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_011
       rect:
         serializedVersion: 2
         x: 1
@@ -686,26 +597,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.68930054, y: 0.5863638}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.49997, y: -121}
-        - {x: 33.49997, y: -123}
-        - {x: 73.49997, y: -123}
-        - {x: 73.49997, y: -25}
-        - {x: -57.50003, y: 81}
-        - {x: -125.50003, y: 81}
-        - {x: -145.50003, y: 74}
-        - {x: -158.50003, y: 58}
-        - {x: -165.50003, y: 36}
-        - {x: -165.50003, y: 14}
-        - {x: -162.50003, y: 3}
-        - {x: -156.50003, y: -12}
-        - {x: -132.50003, y: -30}
-        - {x: -37.50003, y: -123}
-        - {x: 11.4999695, y: -123}
-        - {x: 14.4999695, y: -110}
-        - {x: 6.4999695, y: -108}
-        - {x: 5.4999695, y: -97}
-    - name: Front-die_left-L_die_012
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_012
       rect:
         serializedVersion: 2
         x: 270
@@ -715,22 +610,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7094863, y: 0.5821598}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 65.49997, y: -65}
-        - {x: 65.49997, y: -43}
-        - {x: 26.49997, y: 0}
-        - {x: -3.5000305, y: 26}
-        - {x: -93.50003, y: 85}
-        - {x: -169.50003, y: 85}
-        - {x: -177.50003, y: 82}
-        - {x: -177.50003, y: -14}
-        - {x: -159.50003, y: -61}
-        - {x: -51.50003, y: -124}
-        - {x: 54.49997, y: -124}
-        - {x: 62.49997, y: -120}
-        - {x: 59.49997, y: -105}
-        - {x: 52.49997, y: -101}
-    - name: Front-die_left-L_die_013
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_013
       rect:
         serializedVersion: 2
         x: 1
@@ -740,21 +623,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7247192, y: 0.5934581}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.49997, y: -121}
-        - {x: 57.49997, y: -119}
-        - {x: 57.49997, y: -22}
-        - {x: -66.50003, y: 84}
-        - {x: -164.50003, y: 84}
-        - {x: -190.50003, y: 56}
-        - {x: -190.50003, y: -11}
-        - {x: -182.50003, y: -36}
-        - {x: -80.50003, y: -125}
-        - {x: 12.4999695, y: -125}
-        - {x: 12.4999695, y: -114}
-        - {x: -1.5000305, y: -105}
-        - {x: 8.4999695, y: -88}
-    - name: Front-die_left-L_die_014
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_014
       rect:
         serializedVersion: 2
         x: 292
@@ -764,19 +636,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7842107, y: 0.75722563}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -198.50006, y: 40}
-        - {x: -222.50006, y: 14}
-        - {x: -222.50006, y: -40}
-        - {x: -201.50006, y: -86}
-        - {x: -108.50006, y: -90}
-        - {x: -57.50006, y: -126}
-        - {x: 49.49994, y: -126}
-        - {x: 49.49994, y: -20}
-        - {x: 47.49994, y: -5}
-        - {x: -11.500061, y: 17}
-        - {x: -129.50006, y: 40}
-    - name: Front-die_left-L_die_015
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_left-L_die_015
       rect:
         serializedVersion: 2
         x: 582
@@ -786,18 +649,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.8449479, y: 0.8441561}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -211.50006, y: -3}
-        - {x: -241.50006, y: -31}
-        - {x: -241.50006, y: -100}
-        - {x: -233.50006, y: -124}
-        - {x: 40.49994, y: -124}
-        - {x: 40.49994, y: -55}
-        - {x: 7.499939, y: 14}
-        - {x: -22.500061, y: 14}
-        - {x: -46.50006, y: 12}
-        - {x: -83.50006, y: 0}
-    - name: Front-die_right-R_die_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_001
       rect:
         serializedVersion: 2
         x: 1369
@@ -807,18 +662,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.35000053, y: 0.45454556}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9.999878, y: 153}
-        - {x: -50.000122, y: 117}
-        - {x: -42.000122, y: 16}
-        - {x: -53.000122, y: -34}
-        - {x: -53.000122, y: -104}
-        - {x: -32.000122, y: -135}
-        - {x: 59.999878, y: -135}
-        - {x: 95.99988, y: -80}
-        - {x: 95.99988, y: 139}
-        - {x: 80.99988, y: 153}
-    - name: Front-die_right-R_die_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_002
       rect:
         serializedVersion: 2
         x: 453
@@ -828,18 +675,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.35294166, y: 0.4666668}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 102.99994, y: 126}
-        - {x: 78.99994, y: 149}
-        - {x: 17.999939, y: 149}
-        - {x: -30.000061, y: 115}
-        - {x: -56.00006, y: -5}
-        - {x: -56.00006, y: -89}
-        - {x: -31.000061, y: -133}
-        - {x: 62.99994, y: -133}
-        - {x: 88.99994, y: -82}
-        - {x: 102.99994, y: 60}
-    - name: Front-die_right-R_die_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_003
       rect:
         serializedVersion: 2
         x: 1531
@@ -849,22 +688,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36538514, y: 0.4564461}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 73.99988, y: 151}
-        - {x: 7.999878, y: 151}
-        - {x: -6.000122, y: 132}
-        - {x: -28.000122, y: 101}
-        - {x: -55.000122, y: 43}
-        - {x: -55.000122, y: -124}
-        - {x: -53.000122, y: -131}
-        - {x: -14.000122, y: -131}
-        - {x: -3.000122, y: -117}
-        - {x: 31.999878, y: -131}
-        - {x: 59.999878, y: -131}
-        - {x: 82.99988, y: -70}
-        - {x: 94.99988, y: -5}
-        - {x: 94.99988, y: 135}
-    - name: Front-die_right-R_die_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_004
       rect:
         serializedVersion: 2
         x: 711
@@ -874,21 +701,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36842167, y: 0.46551737}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 80.99994, y: 51}
-        - {x: 80.99994, y: 144}
-        - {x: 50.99994, y: 155}
-        - {x: -11.000061, y: 155}
-        - {x: -30.000061, y: 128}
-        - {x: -45.00006, y: 87}
-        - {x: -49.00006, y: 22}
-        - {x: -49.00006, y: -110}
-        - {x: -38.00006, y: -130}
-        - {x: 72.99994, y: -130}
-        - {x: 80.99994, y: -108}
-        - {x: 80.99994, y: -24}
-        - {x: 72.99994, y: 22}
-    - name: Front-die_right-R_die_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_005
       rect:
         serializedVersion: 2
         x: 339
@@ -898,19 +714,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37415022, y: 0.46258515}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 82.99991, y: -74}
-        - {x: 82.99991, y: 126}
-        - {x: 56.99991, y: 156}
-        - {x: -32.00009, y: 156}
-        - {x: -48.00009, y: 140}
-        - {x: -48.00009, y: -124}
-        - {x: -38.00009, y: -131}
-        - {x: 57.99991, y: -131}
-        - {x: 61.99991, y: -113}
-        - {x: 60.99991, y: -99}
-        - {x: 53.99991, y: -83}
-    - name: Front-die_right-R_die_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_006
       rect:
         serializedVersion: 2
         x: 1
@@ -920,20 +727,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37857202, y: 0.44827598}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 51.999916, y: 156}
-        - {x: -6.000084, y: 156}
-        - {x: -39.000084, y: 126}
-        - {x: -48.000084, y: 95}
-        - {x: -49.000084, y: 91}
-        - {x: -49.000084, y: -130}
-        - {x: -27.000084, y: -130}
-        - {x: -3.000084, y: -117}
-        - {x: 16.999916, y: -130}
-        - {x: 80.999916, y: -130}
-        - {x: 80.999916, y: 139}
-        - {x: 79.999916, y: 145}
-    - name: Front-die_right-R_die_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_007
       rect:
         serializedVersion: 2
         x: 204
@@ -943,19 +740,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37058872, y: 0.46808523}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 68.99991, y: 149}
-        - {x: 14.999908, y: 149}
-        - {x: -21.000092, y: 117}
-        - {x: -58.00009, y: -24}
-        - {x: -58.00009, y: -96}
-        - {x: -47.00009, y: -128}
-        - {x: -35.00009, y: -132}
-        - {x: 54.99991, y: -132}
-        - {x: 84.99991, y: -75}
-        - {x: 103.99991, y: 49}
-        - {x: 103.99991, y: 127}
-    - name: Front-die_right-R_die_008
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_008
       rect:
         serializedVersion: 2
         x: 1815
@@ -965,24 +753,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.35353577, y: 0.4718311}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 71.99988, y: -74}
-        - {x: 73.99988, y: -57}
-        - {x: 72.99988, y: -25}
-        - {x: 116.99988, y: 25}
-        - {x: 116.99988, y: 144}
-        - {x: -6.000122, y: 144}
-        - {x: -60.000122, y: -17}
-        - {x: -60.000122, y: -108}
-        - {x: -55.000122, y: -115}
-        - {x: -46.000122, y: -124}
-        - {x: -20.000122, y: -106}
-        - {x: 11.999878, y: -131}
-        - {x: 34.999878, y: -131}
-        - {x: 50.999878, y: -110}
-        - {x: 52.999878, y: -105}
-        - {x: 69.99988, y: -80}
-    - name: Front-die_right-R_die_009
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_009
       rect:
         serializedVersion: 2
         x: 1612
@@ -992,18 +766,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.31343326, y: 0.49806964}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 41.999878, y: 125}
-        - {x: 2.999878, y: 72}
-        - {x: -61.000122, y: -43}
-        - {x: -61.000122, y: -124}
-        - {x: -59.000122, y: -129}
-        - {x: 39.999878, y: -129}
-        - {x: 77.99988, y: -104}
-        - {x: 104.99988, y: -60}
-        - {x: 133.99988, y: 28}
-        - {x: 133.99988, y: 125}
-    - name: Front-die_right-R_die_010
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_010
       rect:
         serializedVersion: 2
         x: 1133
@@ -1013,17 +779,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.28936207, y: 0.5489363}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 60.999878, y: 101}
-        - {x: -67.00012, y: -6}
-        - {x: -67.00012, y: -92}
-        - {x: -60.000122, y: -118}
-        - {x: -40.000122, y: -125}
-        - {x: 43.999878, y: -125}
-        - {x: 63.999878, y: -120}
-        - {x: 156.99988, y: -16}
-        - {x: 156.99988, y: 101}
-    - name: Front-die_right-R_die_011
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_011
       rect:
         serializedVersion: 2
         x: 1133
@@ -1033,19 +792,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.291667, y: 0.5934581}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 70.99988, y: 81}
-        - {x: -57.000122, y: 5}
-        - {x: -68.00012, y: -43}
-        - {x: -68.00012, y: -58}
-        - {x: -55.000122, y: -68}
-        - {x: -61.000122, y: -123}
-        - {x: 74.99988, y: -123}
-        - {x: 161.99988, y: -62}
-        - {x: 169.99988, y: -44}
-        - {x: 169.99988, y: 56}
-        - {x: 156.99988, y: 81}
-    - name: Front-die_right-R_die_012
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_012
       rect:
         serializedVersion: 2
         x: 871
@@ -1055,16 +805,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.26923108, y: 0.5879631}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 76.99994, y: 85}
-        - {x: -32.00006, y: 7}
-        - {x: -60.00006, y: -41}
-        - {x: -60.00006, y: -124}
-        - {x: 73.99994, y: -124}
-        - {x: 182.99994, y: -44}
-        - {x: 182.99994, y: 55}
-        - {x: 173.99994, y: 85}
-    - name: Front-die_right-R_die_013
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_013
       rect:
         serializedVersion: 2
         x: 579
@@ -1074,17 +818,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.21317862, y: 0.5876779}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 177.99994, y: 84}
-        - {x: 100.99994, y: 84}
-        - {x: 82.99994, y: 81}
-        - {x: -34.00006, y: 22}
-        - {x: -52.00006, y: -16}
-        - {x: -52.00006, y: -124}
-        - {x: 72.99994, y: -124}
-        - {x: 195.99994, y: -16}
-        - {x: 195.99994, y: 64}
-    - name: Front-die_right-R_die_014
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_014
       rect:
         serializedVersion: 2
         x: 1
@@ -1094,21 +831,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.19723213, y: 0.763006}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 227.99991, y: 16}
-        - {x: 216.99991, y: 40}
-        - {x: 129.99991, y: 40}
-        - {x: 112.999916, y: 32}
-        - {x: -37.000084, y: 2}
-        - {x: -38.000084, y: -22}
-        - {x: -44.000084, y: -55}
-        - {x: -44.000084, y: -119}
-        - {x: -21.000084, y: -126}
-        - {x: 56.999916, y: -126}
-        - {x: 109.999916, y: -75}
-        - {x: 201.99991, y: -77}
-        - {x: 227.99991, y: -51}
-    - name: Front-die_right-R_die_015
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-die_right-R_die_015
       rect:
         serializedVersion: 2
         x: 292
@@ -1118,20 +844,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.13541695, y: 0.8979594}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 227.99991, y: 14}
-        - {x: -10.000092, y: 14}
-        - {x: -35.00009, y: -90}
-        - {x: -35.00009, y: -108}
-        - {x: -27.000092, y: -118}
-        - {x: -9.000092, y: -124}
-        - {x: 18.999908, y: -124}
-        - {x: 59.99991, y: -116}
-        - {x: 121.99991, y: -124}
-        - {x: 218.99991, y: -124}
-        - {x: 246.99991, y: -103}
-        - {x: 246.99991, y: -29}
-    - name: Front-hurt_left-L_hurt_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_000
       rect:
         serializedVersion: 2
         x: 1525
@@ -1141,17 +857,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5971217, y: 0.45484924}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 56.000122, y: -97}
-        - {x: 56.000122, y: 156}
-        - {x: -73.99988, y: 156}
-        - {x: -73.99988, y: -110}
-        - {x: -39.999878, y: -136}
-        - {x: -25.999878, y: -136}
-        - {x: -23.999878, y: -131}
-        - {x: -14.999878, y: -136}
-        - {x: 36.000122, y: -136}
-    - name: Front-hurt_left-L_hurt_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_001
       rect:
         serializedVersion: 2
         x: 625
@@ -1161,20 +870,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.62874204, y: 0.4610167}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 48.00006, y: 85}
-        - {x: 3.000061, y: 147}
-        - {x: -74.99994, y: 147}
-        - {x: -95.99994, y: 137}
-        - {x: -95.99994, y: 13}
-        - {x: -68.99994, y: -73}
-        - {x: -65.99994, y: -114}
-        - {x: -47.99994, y: -136}
-        - {x: 27.000061, y: -136}
-        - {x: 30.000061, y: -134}
-        - {x: 62.00006, y: -103}
-        - {x: 62.00006, y: -12}
-    - name: Front-hurt_left-L_hurt_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_002
       rect:
         serializedVersion: 2
         x: 150
@@ -1184,19 +883,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5999994, y: 0.45704442}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 58.00009, y: 25}
-        - {x: 49.00009, y: 111}
-        - {x: 9.000092, y: 150}
-        - {x: 8.000092, y: 151}
-        - {x: -62.99991, y: 151}
-        - {x: -81.99991, y: 125}
-        - {x: -81.99991, y: -133}
-        - {x: 33.00009, y: -133}
-        - {x: 33.00009, y: -130}
-        - {x: 32.00009, y: -121}
-        - {x: 58.00009, y: -96}
-    - name: Front-hurt_left-L_hurt_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_003
       rect:
         serializedVersion: 2
         x: 148
@@ -1206,18 +896,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5774642, y: 0.45674714}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 55.00009, y: -31.999878}
-        - {x: 53.00009, y: -21.999878}
-        - {x: 55.00009, y: -4.999878}
-        - {x: 55.00009, y: 123.00012}
-        - {x: 25.000092, y: 154.00012}
-        - {x: -75.99991, y: 154.00012}
-        - {x: -75.99991, y: -131.99988}
-        - {x: 33.00009, y: -131.99988}
-        - {x: 45.00009, y: -127.99988}
-        - {x: 55.00009, y: -86.99988}
-    - name: Front-hurt_left-L_hurt_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_004
       rect:
         serializedVersion: 2
         x: 794
@@ -1227,22 +909,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.61486435, y: 0.4639173}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 54.00006, y: -121}
-        - {x: 54.00006, y: -33}
-        - {x: 49.00006, y: -5}
-        - {x: 54.00006, y: 22}
-        - {x: 54.00006, y: 111}
-        - {x: 43.00006, y: 150}
-        - {x: 30.000061, y: 154}
-        - {x: -48.99994, y: 154}
-        - {x: -76.99994, y: 141}
-        - {x: -76.99994, y: -134}
-        - {x: -38.99994, y: -134}
-        - {x: -34.99994, y: -128}
-        - {x: -14.999939, y: -134}
-        - {x: 46.00006, y: -134}
-    - name: Front-hurt_left-L_hurt_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_005
       rect:
         serializedVersion: 2
         x: 635
@@ -1252,17 +922,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5774642, y: 0.4625848}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 42.00006, y: 155}
-        - {x: -62.99994, y: 155}
-        - {x: -74.99994, y: 88}
-        - {x: -74.99994, y: -96}
-        - {x: -64.99994, y: -136}
-        - {x: 32.00006, y: -136}
-        - {x: 36.00006, y: -125}
-        - {x: 55.00006, y: -111}
-        - {x: 55.00006, y: 132}
-    - name: Front-hurt_left-L_hurt_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_006
       rect:
         serializedVersion: 2
         x: 1677
@@ -1272,20 +935,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.573426, y: 0.4579122}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 56.000122, y: 48}
-        - {x: 56.000122, y: 122}
-        - {x: 21.000122, y: 155}
-        - {x: -32.999878, y: 155}
-        - {x: -37.999878, y: 153}
-        - {x: -73.99988, y: 130}
-        - {x: -73.99988, y: -102}
-        - {x: -67.99988, y: -136}
-        - {x: 55.000122, y: -136}
-        - {x: 56.000122, y: -126}
-        - {x: 56.000122, y: -37}
-        - {x: 52.000122, y: -9}
-    - name: Front-hurt_left-L_hurt_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_left-L_hurt_007
       rect:
         serializedVersion: 2
         x: 922
@@ -1295,18 +948,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5611505, y: 0.46575317}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 57.00006, y: 146.00012}
-        - {x: 41.00006, y: 156.00012}
-        - {x: -51.99994, y: 156.00012}
-        - {x: -73.99994, y: 124.00012}
-        - {x: -73.99994, y: -93.99988}
-        - {x: -38.99994, y: -135.99988}
-        - {x: -25.999939, y: -135.99988}
-        - {x: -23.999939, y: -130.99988}
-        - {x: -18.999939, y: -135.99988}
-        - {x: 57.00006, y: -135.99988}
-    - name: Front-hurt_right-R_hurt_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_000
       rect:
         serializedVersion: 2
         x: 434
@@ -1316,19 +961,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.38405773, y: 0.4579122}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 83.00003, y: 144.00012}
-        - {x: 71.00003, y: 156.00012}
-        - {x: -14.9999695, y: 156.00012}
-        - {x: -45.99997, y: 128.00012}
-        - {x: -47.99997, y: 120.00012}
-        - {x: -47.99997, y: -132.99988}
-        - {x: -46.99997, y: -135.99988}
-        - {x: -1.9999695, y: -135.99988}
-        - {x: 5.0000305, y: -122.99988}
-        - {x: 23.00003, y: -135.99988}
-        - {x: 83.00003, y: -135.99988}
-    - name: Front-hurt_right-R_hurt_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_001
       rect:
         serializedVersion: 2
         x: 1
@@ -1338,19 +974,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3214284, y: 0.47552422}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 69.00003, y: 147}
-        - {x: 31.00003, y: 147}
-        - {x: 4.0000305, y: 133}
-        - {x: -11.9999695, y: 100}
-        - {x: -53.99997, y: -27}
-        - {x: -53.99997, y: -124}
-        - {x: -45.99997, y: -136}
-        - {x: 74.00003, y: -136}
-        - {x: 105.00003, y: 21}
-        - {x: 105.00003, y: 118}
-        - {x: 97.00003, y: 132}
-    - name: Front-hurt_right-R_hurt_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_002
       rect:
         serializedVersion: 2
         x: 1217
@@ -1360,20 +987,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.35761568, y: 0.4615382}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 91, y: 128}
-        - {x: 67, y: 151}
-        - {x: -13, y: 151}
-        - {x: -36, y: 143}
-        - {x: -43, y: 15}
-        - {x: -50, y: -11}
-        - {x: -50, y: -109}
-        - {x: -26, y: -132}
-        - {x: 58, y: -132}
-        - {x: 84, y: -74}
-        - {x: 80, y: 39}
-        - {x: 91, y: 67}
-    - name: Front-hurt_right-R_hurt_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_003
       rect:
         serializedVersion: 2
         x: 779
@@ -1383,19 +1000,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3333331, y: 0.4620687}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 58, y: 139.00012}
-        - {x: 42, y: 150.00012}
-        - {x: 26, y: 154.00012}
-        - {x: -6, y: 154.00012}
-        - {x: -25, y: 151.00012}
-        - {x: -46, y: 110.00012}
-        - {x: -46, y: -132.99988}
-        - {x: 77, y: -132.99988}
-        - {x: 85, y: -107.99988}
-        - {x: 85, y: 25.000122}
-        - {x: 73, y: 120.00012}
-    - name: Front-hurt_right-R_hurt_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_004
       rect:
         serializedVersion: 2
         x: 1
@@ -1405,17 +1013,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.34328336, y: 0.45484924}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 50.00003, y: 150.00006}
-        - {x: 36.00003, y: 154.00006}
-        - {x: -11.9999695, y: 154.00006}
-        - {x: -44.99997, y: 128.00006}
-        - {x: -44.99997, y: -133.99994}
-        - {x: 82.00003, y: -133.99994}
-        - {x: 86.00003, y: -122.99994}
-        - {x: 86.00003, y: 61.00006}
-        - {x: 78.00003, y: 116.00006}
-    - name: Front-hurt_right-R_hurt_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_005
       rect:
         serializedVersion: 2
         x: 986
@@ -1425,21 +1026,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3546097, y: 0.46575317}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44, y: 155.00012}
-        - {x: -5, y: 155.00012}
-        - {x: -19, y: 153.00012}
-        - {x: -46, y: 125.00012}
-        - {x: -46, y: 99.00012}
-        - {x: -33, y: 49.000122}
-        - {x: -46, y: -17.999878}
-        - {x: -46, y: -92.99988}
-        - {x: -27, y: -135.99988}
-        - {x: 70, y: -135.99988}
-        - {x: 84, y: -97.99988}
-        - {x: 84, y: 36.000122}
-        - {x: 76, y: 135.00012}
-    - name: Front-hurt_right-R_hurt_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_006
       rect:
         serializedVersion: 2
         x: 944
@@ -1449,18 +1039,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.35862046, y: 0.4563756}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -2.999939, y: 155}
-        - {x: -40.99994, y: 142}
-        - {x: -44.99994, y: 73}
-        - {x: -38.99994, y: 25}
-        - {x: -46.99994, y: -5}
-        - {x: -46.99994, y: -136}
-        - {x: 69.00006, y: -136}
-        - {x: 83.00006, y: -83}
-        - {x: 83.00006, y: 147}
-        - {x: 65.00006, y: 155}
-    - name: Front-hurt_right-R_hurt_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-hurt_right-R_hurt_007
       rect:
         serializedVersion: 2
         x: 695
@@ -1470,16 +1052,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36551702, y: 0.45945922}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 83, y: 156}
-        - {x: -48, y: 156}
-        - {x: -48, y: -127}
-        - {x: -18, y: -136}
-        - {x: -2, y: -136}
-        - {x: 5, y: -123}
-        - {x: 30, y: -136}
-        - {x: 83, y: -136}
-    - name: Front-idle_left-L_idle_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_000
       rect:
         serializedVersion: 2
         x: 1236
@@ -1489,20 +1065,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6363634, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 48, y: 70}
-        - {x: 48, y: 131}
-        - {x: 15, y: 157}
-        - {x: -60, y: 157}
-        - {x: -81, y: 137}
-        - {x: -81, y: 91}
-        - {x: -69, y: 74}
-        - {x: -81, y: 13}
-        - {x: -81, y: -136}
-        - {x: 48, y: -136}
-        - {x: 48, y: 28}
-        - {x: 45, y: 54}
-    - name: Front-idle_left-L_idle_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_001
       rect:
         serializedVersion: 2
         x: 1914
@@ -1512,17 +1078,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6165414, y: 0.46416417}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9, y: 157}
-        - {x: -55, y: 157}
-        - {x: -69, y: 142}
-        - {x: -81, y: 99}
-        - {x: -81, y: -103}
-        - {x: -47, y: -136}
-        - {x: 16, y: -136}
-        - {x: 50, y: -101}
-        - {x: 50, y: 137}
-    - name: Front-idle_left-L_idle_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_002
       rect:
         serializedVersion: 2
         x: 1200
@@ -1532,19 +1091,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.619403, y: 0.46416417}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 45, y: 124.99988}
-        - {x: 15, y: 156.99988}
-        - {x: -43, y: 156.99988}
-        - {x: -73, y: 144.99988}
-        - {x: -80, y: 134.99988}
-        - {x: -80, y: -117.00012}
-        - {x: -72, y: -136.00012}
-        - {x: 42, y: -136.00012}
-        - {x: 50, y: -107.00012}
-        - {x: 50, y: -27.000122}
-        - {x: 35, y: 2.999878}
-    - name: Front-idle_left-L_idle_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_003
       rect:
         serializedVersion: 2
         x: 282
@@ -1554,17 +1104,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.62222224, y: 0.46575376}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 46, y: 118.99988}
-        - {x: 13, y: 155.99988}
-        - {x: -53, y: 155.99988}
-        - {x: -80, y: 136.99988}
-        - {x: -80, y: -86.00012}
-        - {x: -47, y: -136.00012}
-        - {x: 19, y: -136.00012}
-        - {x: 51, y: -95.00012}
-        - {x: 51, y: 54.999878}
-    - name: Front-idle_left-L_idle_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_004
       rect:
         serializedVersion: 2
         x: 1409
@@ -1574,20 +1117,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.625, y: 0.46416417}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 15, y: 156.99988}
-        - {x: -50, y: 156.99988}
-        - {x: -79, y: 140.99988}
-        - {x: -79, y: 73.99988}
-        - {x: -70, y: 48.999878}
-        - {x: -79, y: 30.999878}
-        - {x: -79, y: -102.00012}
-        - {x: -66, y: -136.00012}
-        - {x: 29, y: -136.00012}
-        - {x: 51, y: -104.00012}
-        - {x: 51, y: 32.999878}
-        - {x: 30, y: 146.99988}
-    - name: Front-idle_left-L_idle_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_005
       rect:
         serializedVersion: 2
         x: 419
@@ -1597,17 +1130,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6212121, y: 0.46416417}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 50, y: 70.99988}
-        - {x: 50, y: 85.99988}
-        - {x: 25, y: 156.99988}
-        - {x: -61, y: 156.99988}
-        - {x: -80, y: 117.99988}
-        - {x: -80, y: -136.00012}
-        - {x: 50, y: -136.00012}
-        - {x: 50, y: -5.000122}
-        - {x: 35, y: 40.999878}
-    - name: Front-idle_left-L_idle_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_006
       rect:
         serializedVersion: 2
         x: 1336
@@ -1617,15 +1143,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.619403, y: 0.46416417}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 50, y: -109.00012}
-        - {x: 50, y: 130.99988}
-        - {x: 12, y: 156.99988}
-        - {x: -80, y: 156.99988}
-        - {x: -80, y: -120.00012}
-        - {x: -59, y: -136.00012}
-        - {x: 30, y: -136.00012}
-    - name: Front-idle_left-L_idle_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_left-L_idle_007
       rect:
         serializedVersion: 2
         x: 1914
@@ -1635,20 +1156,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6165414, y: 0.46416417}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 31, y: -136}
-        - {x: 50, y: -112}
-        - {x: 50, y: 136}
-        - {x: 10, y: 157}
-        - {x: -60, y: 157}
-        - {x: -81, y: 138}
-        - {x: -81, y: -100}
-        - {x: -49, y: -136}
-        - {x: -32, y: -136}
-        - {x: -32, y: -127}
-        - {x: -33, y: -123}
-        - {x: -13, y: -136}
-    - name: Front-idle_right-R_idle_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_000
       rect:
         serializedVersion: 2
         x: 892
@@ -1658,19 +1169,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.39259303, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44.99994, y: -133}
-        - {x: 77.99994, y: -97}
-        - {x: 77.99994, y: 157}
-        - {x: -48.00006, y: 157}
-        - {x: -52.00006, y: 110}
-        - {x: -52.00006, y: -117}
-        - {x: -37.00006, y: -136}
-        - {x: -5.000061, y: -136}
-        - {x: 2.999939, y: -119}
-        - {x: 30.999939, y: -136}
-        - {x: 43.99994, y: -136}
-    - name: Front-idle_right-R_idle_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_001
       rect:
         serializedVersion: 2
         x: 724
@@ -1680,20 +1182,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.39259303, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 77.99994, y: 86}
-        - {x: 77.99994, y: 156}
-        - {x: 69.99994, y: 157}
-        - {x: -35.00006, y: 157}
-        - {x: -41.00006, y: 130}
-        - {x: -53.00006, y: 103}
-        - {x: -53.00006, y: -125}
-        - {x: -49.00006, y: -136}
-        - {x: 48.99994, y: -136}
-        - {x: 77.99994, y: -83}
-        - {x: 77.99994, y: -31}
-        - {x: 62.99994, y: 8}
-    - name: Front-idle_right-R_idle_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_002
       rect:
         serializedVersion: 2
         x: 1029
@@ -1703,19 +1195,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.40601546, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -4, y: 157}
-        - {x: -24, y: 153}
-        - {x: -52, y: 111}
-        - {x: -37, y: 39}
-        - {x: -53, y: -27}
-        - {x: -53, y: -120}
-        - {x: -27, y: -136}
-        - {x: 54, y: -136}
-        - {x: 77, y: -99}
-        - {x: 77, y: 118}
-        - {x: 63, y: 157}
-    - name: Front-idle_right-R_idle_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_003
       rect:
         serializedVersion: 2
         x: 574
@@ -1725,23 +1208,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.40000042, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 59.99994, y: -136}
-        - {x: 76.99994, y: -112}
-        - {x: 76.99994, y: 118}
-        - {x: 73.99994, y: 146}
-        - {x: 55.99994, y: 157}
-        - {x: -9.000061, y: 157}
-        - {x: -37.00006, y: 149}
-        - {x: -48.00006, y: 80}
-        - {x: -54.00006, y: 21}
-        - {x: -54.00006, y: -106}
-        - {x: -26.000061, y: -136}
-        - {x: -5.000061, y: -136}
-        - {x: -3.000061, y: -133}
-        - {x: 2.999939, y: -123}
-        - {x: 19.999939, y: -136}
-    - name: Front-idle_right-R_idle_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_004
       rect:
         serializedVersion: 2
         x: 1
@@ -1751,21 +1221,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.394161, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44.999947, y: -136}
-        - {x: 51.999947, y: -133}
-        - {x: 75.99995, y: -123}
-        - {x: 75.99995, y: 141}
-        - {x: 70.99995, y: 157}
-        - {x: -43.000053, y: 157}
-        - {x: -54.000053, y: 147}
-        - {x: -54.000053, y: -105}
-        - {x: -20.000053, y: -136}
-        - {x: -3.0000534, y: -136}
-        - {x: -0.00005340576, y: -131}
-        - {x: 4.9999466, y: -116}
-        - {x: 23.999947, y: -136}
-    - name: Front-idle_right-R_idle_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_005
       rect:
         serializedVersion: 2
         x: 426
@@ -1775,22 +1234,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.40000042, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 76.99994, y: -101}
-        - {x: 76.99994, y: 129}
-        - {x: 57.99994, y: 157}
-        - {x: -24.000061, y: 157}
-        - {x: -42.00006, y: 117}
-        - {x: -35.00006, y: 69}
-        - {x: -47.00006, y: 5}
-        - {x: -54.00006, y: -35}
-        - {x: -54.00006, y: -106}
-        - {x: -26.000061, y: -136}
-        - {x: -4.000061, y: -136}
-        - {x: 10.999939, y: -119}
-        - {x: 23.999939, y: -136}
-        - {x: 58.99994, y: -136}
-    - name: Front-idle_right-R_idle_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_006
       rect:
         serializedVersion: 2
         x: 861
@@ -1800,17 +1247,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.40601546, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 41.99994, y: 157}
-        - {x: -11.000061, y: 157}
-        - {x: -48.00006, y: 129}
-        - {x: -53.00006, y: 89}
-        - {x: -53.00006, y: -105}
-        - {x: -27.000061, y: -136}
-        - {x: 60.99994, y: -136}
-        - {x: 76.99994, y: -82}
-        - {x: 76.99994, y: 127}
-    - name: Front-idle_right-R_idle_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-idle_right-R_idle_007
       rect:
         serializedVersion: 2
         x: 1200
@@ -1820,21 +1260,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3955228, y: 0.464164}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 78, y: 58}
-        - {x: 78, y: 133}
-        - {x: 54, y: 157}
-        - {x: -9, y: 157}
-        - {x: -49, y: 135}
-        - {x: -37, y: 68}
-        - {x: -53, y: 8}
-        - {x: -53, y: -96}
-        - {x: -42, y: -136}
-        - {x: 71, y: -136}
-        - {x: 78, y: -106}
-        - {x: 78, y: -35}
-        - {x: 70, y: 11}
-    - name: Front-jump_left-L_jump_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_000
       rect:
         serializedVersion: 2
         x: 1391
@@ -1844,19 +1273,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7246376, y: 0.4563762}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 38, y: 69}
-        - {x: 38, y: 108}
-        - {x: 31, y: 157}
-        - {x: -85, y: 157}
-        - {x: -91, y: 156}
-        - {x: -92, y: 150}
-        - {x: -92, y: -109}
-        - {x: -86, y: -136}
-        - {x: 38, y: -136}
-        - {x: 38, y: -25}
-        - {x: 27, y: 9}
-    - name: Front-jump_left-L_jump_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_001
       rect:
         serializedVersion: 2
         x: 1050
@@ -1866,20 +1286,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6848485, y: 0.4689659}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 16, y: 123}
-        - {x: -16, y: 153}
-        - {x: -76, y: 153}
-        - {x: -108, y: 139}
-        - {x: -110, y: 136}
-        - {x: -110, y: 24}
-        - {x: -84, y: -81}
-        - {x: -51, y: -136}
-        - {x: 9, y: -136}
-        - {x: 52, y: -104}
-        - {x: 52, y: -11}
-        - {x: 3, y: 57}
-    - name: Front-jump_left-L_jump_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_002
       rect:
         serializedVersion: 2
         x: 525
@@ -1889,20 +1299,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.68292683, y: 0.4609933}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 37, y: -3}
-        - {x: -20, y: 142}
-        - {x: -38, y: 145}
-        - {x: -122, y: 145}
-        - {x: -135, y: 121}
-        - {x: -135, y: 34}
-        - {x: -53, y: -130}
-        - {x: 9, y: -130}
-        - {x: 15, y: -128}
-        - {x: 58, y: -70}
-        - {x: 63, y: -60}
-        - {x: 63, y: -35}
-    - name: Front-jump_left-L_jump_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_003
       rect:
         serializedVersion: 2
         x: 1370
@@ -1912,20 +1312,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6751269, y: 0.46341503}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -106, y: 150}
-        - {x: -129, y: 138}
-        - {x: -129, y: 58}
-        - {x: -112, y: 7}
-        - {x: -64, y: -131}
-        - {x: -61, y: -132}
-        - {x: 35, y: -132}
-        - {x: 62, y: -100}
-        - {x: 62, y: -19}
-        - {x: 19, y: 20}
-        - {x: -1, y: 89}
-        - {x: -35, y: 150}
-    - name: Front-jump_left-L_jump_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_004
       rect:
         serializedVersion: 2
         x: 1698
@@ -1935,20 +1325,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7307692, y: 0.44884524}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -51, y: 166}
-        - {x: -100, y: 132}
-        - {x: -114, y: -6}
-        - {x: -114, y: -100}
-        - {x: -105, y: -99}
-        - {x: -91, y: -96}
-        - {x: -93, y: -81}
-        - {x: 16, y: -136}
-        - {x: 33, y: -136}
-        - {x: 36, y: -133}
-        - {x: 36, y: 160}
-        - {x: 28, y: 166}
-    - name: Front-jump_left-L_jump_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_005
       rect:
         serializedVersion: 2
         x: 1856
@@ -1958,19 +1338,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6732026, y: 0.4493247}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -2, y: 153}
-        - {x: -21, y: 163}
-        - {x: -94, y: 163}
-        - {x: -97, y: 151}
-        - {x: -97, y: -120}
-        - {x: -85, y: -122}
-        - {x: -48, y: -128}
-        - {x: 37, y: -128}
-        - {x: 45, y: -105}
-        - {x: 45, y: 4}
-        - {x: 10, y: 138}
-    - name: Front-jump_left-L_jump_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_006
       rect:
         serializedVersion: 2
         x: 376
@@ -1980,18 +1351,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.67065865, y: 0.4520552}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 8, y: 130}
-        - {x: -29, y: 159}
-        - {x: -107, y: 159}
-        - {x: -111, y: 141}
-        - {x: -111, y: -5}
-        - {x: -85, y: -129}
-        - {x: -81, y: -131}
-        - {x: 53, y: -131}
-        - {x: 53, y: -10}
-        - {x: 25, y: 20}
-    - name: Front-jump_left-L_jump_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_007
       rect:
         serializedVersion: 2
         x: 1050
@@ -2001,19 +1364,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6793478, y: 0.4641642}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 58, y: -95}
-        - {x: 58, y: 26}
-        - {x: 3, y: 153}
-        - {x: -103, y: 153}
-        - {x: -122, y: 123}
-        - {x: -122, y: 20}
-        - {x: -72, y: -136}
-        - {x: -56, y: -136}
-        - {x: -55, y: -134}
-        - {x: 18, y: -135}
-        - {x: 26, y: -123}
-    - name: Front-jump_left-L_jump_008
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_008
       rect:
         serializedVersion: 2
         x: 1370
@@ -2023,19 +1377,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6502732, y: 0.4657538}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 45, y: -11}
-        - {x: 8, y: 85}
-        - {x: 10, y: 155}
-        - {x: -106, y: 155}
-        - {x: -110, y: 138}
-        - {x: -110, y: 14}
-        - {x: -72, y: -136}
-        - {x: 11, y: -136}
-        - {x: 22, y: -132}
-        - {x: 53, y: -90}
-        - {x: 53, y: -36}
-    - name: Front-jump_left-L_jump_009
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_left-L_jump_009
       rect:
         serializedVersion: 2
         x: 488
@@ -2045,18 +1390,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6551724, y: 0.4610173}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 10, y: 66}
-        - {x: 29, y: 117}
-        - {x: 2, y: 157}
-        - {x: -77, y: 157}
-        - {x: -95, y: 150}
-        - {x: -95, y: -113}
-        - {x: -66, y: -136}
-        - {x: 30, y: -136}
-        - {x: 45, y: -94}
-        - {x: 45, y: -28}
-    - name: Front-jump_right-R_jump_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_000
       rect:
         serializedVersion: 2
         x: 144
@@ -2066,20 +1403,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.39285764, y: 0.4641642}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 59.99994, y: -136.00012}
-        - {x: 81.99994, y: -106.00012}
-        - {x: 81.99994, y: 132.99988}
-        - {x: 62.99994, y: 156.99988}
-        - {x: -8.000061, y: 156.99988}
-        - {x: -49.00006, y: 129.99988}
-        - {x: -49.00006, y: -125.00012}
-        - {x: -15.000061, y: -136.00012}
-        - {x: -2.000061, y: -136.00012}
-        - {x: 3.999939, y: -123.00012}
-        - {x: 4.999939, y: -113.00012}
-        - {x: 31.999939, y: -136.00012}
-    - name: Front-jump_right-R_jump_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_001
       rect:
         serializedVersion: 2
         x: 1555
@@ -2089,30 +1416,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3932588, y: 0.4639179}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 68.99988, y: -79}
-        - {x: 74.99988, y: -42}
-        - {x: 71.99988, y: -13}
-        - {x: 68.99988, y: 9}
-        - {x: 99.99988, y: 59}
-        - {x: 99.99988, y: 134}
-        - {x: 74.99988, y: 153}
-        - {x: -5.000122, y: 153}
-        - {x: -28.000122, y: 146}
-        - {x: -63.000122, y: 0}
-        - {x: -63.000122, y: -105}
-        - {x: -20.000122, y: -132}
-        - {x: -15.000122, y: -134}
-        - {x: -13.000122, y: -135}
-        - {x: -6.000122, y: -135}
-        - {x: 1.9998779, y: -120}
-        - {x: 3.999878, y: -111}
-        - {x: 23.999878, y: -135}
-        - {x: 38.999878, y: -135}
-        - {x: 42.999878, y: -122}
-        - {x: 43.999878, y: -106}
-        - {x: 64.99988, y: -90}
-    - name: Front-jump_right-R_jump_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_002
       rect:
         serializedVersion: 2
         x: 246
@@ -2122,19 +1429,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36097595, y: 0.4676263}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 105.99994, y: 145}
-        - {x: 47.99994, y: 145}
-        - {x: 6.999939, y: 121}
-        - {x: -8.000061, y: 43}
-        - {x: -73.00006, y: -26}
-        - {x: -73.00006, y: -69}
-        - {x: -35.00006, y: -130}
-        - {x: 45.99994, y: -130}
-        - {x: 103.99994, y: 35}
-        - {x: 124.99994, y: 61}
-        - {x: 124.99994, y: 119}
-    - name: Front-jump_right-R_jump_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_003
       rect:
         serializedVersion: 2
         x: 1
@@ -2144,21 +1442,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36318442, y: 0.4636682}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 73.99993, y: -55}
-        - {x: 118.99993, y: 63}
-        - {x: 118.99993, y: 125}
-        - {x: 104.99993, y: 150}
-        - {x: -7.0000687, y: 150}
-        - {x: -72.00007, y: -40}
-        - {x: -72.00007, y: -75}
-        - {x: -35.00007, y: -132}
-        - {x: -11.000069, y: -132}
-        - {x: -8.000069, y: -130}
-        - {x: -4.0000687, y: -102}
-        - {x: 30.999931, y: -127}
-        - {x: 44.99993, y: -119}
-    - name: Front-jump_right-R_jump_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_004
       rect:
         serializedVersion: 2
         x: 1370
@@ -2168,19 +1455,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3435587, y: 0.44884524}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 90.99988, y: 96}
-        - {x: 57.999878, y: 166}
-        - {x: -39.000122, y: 166}
-        - {x: -46.000122, y: 161}
-        - {x: -46.000122, y: -114}
-        - {x: -43.000122, y: -126}
-        - {x: -40.000122, y: -136}
-        - {x: -2.000122, y: -136}
-        - {x: 103.99988, y: -128}
-        - {x: 103.99988, y: -47}
-        - {x: 65.99988, y: 53}
-    - name: Front-jump_right-R_jump_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_005
       rect:
         serializedVersion: 2
         x: 1217
@@ -2190,19 +1468,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.4066671, y: 0.44406816}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 79.99988, y: 163}
-        - {x: 0.9998779, y: 163}
-        - {x: -38.000122, y: 149}
-        - {x: -55.000122, y: 58}
-        - {x: -55.000122, y: -126}
-        - {x: -49.000122, y: -128}
-        - {x: -35.000122, y: -128}
-        - {x: -16.000122, y: -115}
-        - {x: 74.99988, y: -122}
-        - {x: 86.99988, y: -119}
-        - {x: 86.99988, y: 159}
-    - name: Front-jump_right-R_jump_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_006
       rect:
         serializedVersion: 2
         x: 732
@@ -2212,21 +1481,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37058863, y: 0.45454583}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 80.99994, y: 159}
-        - {x: -1.000061, y: 159}
-        - {x: -56.00006, y: -7}
-        - {x: -63.00006, y: -32}
-        - {x: -63.00006, y: -108}
-        - {x: -47.00006, y: -131}
-        - {x: 16.999939, y: -131}
-        - {x: 27.999939, y: -126}
-        - {x: 44.99994, y: -131}
-        - {x: 99.99994, y: -131}
-        - {x: 74.99994, y: -1}
-        - {x: 100.99994, y: 77}
-        - {x: 100.99994, y: 129}
-    - name: Front-jump_right-R_jump_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_007
       rect:
         serializedVersion: 2
         x: 1569
@@ -2236,24 +1494,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.38947403, y: 0.4533337}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 111.99988, y: 67}
-        - {x: 111.99988, y: 128}
-        - {x: 89.99988, y: 153}
-        - {x: 22.999878, y: 153}
-        - {x: 10.999878, y: 148}
-        - {x: -68.00012, y: -20}
-        - {x: -68.00012, y: -82}
-        - {x: -30.000122, y: -136}
-        - {x: -26.000122, y: -136}
-        - {x: -10.000122, y: -126}
-        - {x: -1.0001221, y: -114}
-        - {x: 41.999878, y: -136}
-        - {x: 63.999878, y: -136}
-        - {x: 73.99988, y: -50}
-        - {x: 73.99988, y: -12}
-        - {x: 107.99988, y: 55}
-    - name: Front-jump_right-R_jump_008
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_008
       rect:
         serializedVersion: 2
         x: 1735
@@ -2263,20 +1507,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3954806, y: 0.4533337}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 96.99988, y: 154}
-        - {x: 90.99988, y: 155}
-        - {x: -1.0001221, y: 155}
-        - {x: -29.000122, y: 77}
-        - {x: -63.000122, y: -39}
-        - {x: -63.000122, y: -90}
-        - {x: -31.000122, y: -132}
-        - {x: -21.000122, y: -136}
-        - {x: 67.99988, y: -136}
-        - {x: 80.99988, y: -47}
-        - {x: 99.99988, y: 18}
-        - {x: 99.99988, y: 138}
-    - name: Front-jump_right-R_jump_009
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-jump_right-R_jump_009
       rect:
         serializedVersion: 2
         x: 904
@@ -2286,20 +1520,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.38888937, y: 0.4563762}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 78.99994, y: -57}
-        - {x: 85.99994, y: -20}
-        - {x: 85.99994, y: 144}
-        - {x: 62.99994, y: 157}
-        - {x: -19.000061, y: 157}
-        - {x: -45.00006, y: 127}
-        - {x: -55.00006, y: 97}
-        - {x: -55.00006, y: -130}
-        - {x: -52.00006, y: -136}
-        - {x: 52.99994, y: -136}
-        - {x: 55.99994, y: -116}
-        - {x: 73.99994, y: -83}
-    - name: Front-walk_left-L_walk_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_000
       rect:
         serializedVersion: 2
         x: 143
@@ -2309,19 +1533,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5547442, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 39.000046, y: 86}
-        - {x: 55.000046, y: 137}
-        - {x: 14.000046, y: 157}
-        - {x: -65.999954, y: 157}
-        - {x: -75.999954, y: 145}
-        - {x: -75.999954, y: -70}
-        - {x: -62.999954, y: -134}
-        - {x: 48.000046, y: -134}
-        - {x: 60.000046, y: -119}
-        - {x: 61.000046, y: -112}
-        - {x: 61.000046, y: 19}
-    - name: Front-walk_left-L_walk_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_001
       rect:
         serializedVersion: 2
         x: 1091
@@ -2331,17 +1546,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5555552, y: 0.461017}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 34, y: 158}
-        - {x: -70, y: 158}
-        - {x: -78, y: 154}
-        - {x: -78, y: -93}
-        - {x: -35, y: -135}
-        - {x: 62, y: -135}
-        - {x: 63, y: -134}
-        - {x: 63, y: 16}
-        - {x: 62, y: 20}
-    - name: Front-walk_left-L_walk_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_002
       rect:
         serializedVersion: 2
         x: 842
@@ -2351,21 +1559,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.56337994, y: 0.461017}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.999939, y: -128}
-        - {x: 62.00006, y: -130}
-        - {x: 62.00006, y: 106}
-        - {x: 31.000061, y: 159}
-        - {x: -64.99994, y: 159}
-        - {x: -79.99994, y: 149}
-        - {x: -79.99994, y: -54}
-        - {x: -74.99994, y: -87}
-        - {x: -34.99994, y: -135}
-        - {x: -14.999939, y: -135}
-        - {x: -11.999939, y: -126}
-        - {x: -15.999939, y: -102}
-        - {x: -13.999939, y: -112}
-    - name: Front-walk_left-L_walk_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_003
       rect:
         serializedVersion: 2
         x: 169
@@ -2375,19 +1572,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.578231, y: 0.45733795}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.0000458, y: 159}
-        - {x: -44.999954, y: 159}
-        - {x: -70.999954, y: 152}
-        - {x: -79.999954, y: 125}
-        - {x: -79.999954, y: -25}
-        - {x: -73.999954, y: -79}
-        - {x: -42.999954, y: -133}
-        - {x: 34.000046, y: -133}
-        - {x: 62.000046, y: -115}
-        - {x: 62.000046, y: -12}
-        - {x: 42.000046, y: 126}
-    - name: Front-walk_left-L_walk_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_004
       rect:
         serializedVersion: 2
         x: 1689
@@ -2397,18 +1585,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.57046944, y: 0.461017}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 64, y: 137}
-        - {x: 38, y: 158}
-        - {x: -81, y: 158}
-        - {x: -81, y: -48}
-        - {x: -65, y: -128}
-        - {x: 4, y: -130}
-        - {x: 12, y: -127}
-        - {x: 15, y: -124}
-        - {x: 11, y: -113}
-        - {x: 64, y: -92}
-    - name: Front-walk_left-L_walk_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_005
       rect:
         serializedVersion: 2
         x: 1840
@@ -2418,20 +1598,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.57046944, y: 0.4459931}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 62, y: -22}
-        - {x: 45, y: 145}
-        - {x: 12, y: 158}
-        - {x: -71, y: 158}
-        - {x: -80, y: 146}
-        - {x: -80, y: -60}
-        - {x: -79, y: -72}
-        - {x: -68, y: -126}
-        - {x: 20, y: -126}
-        - {x: 21, y: -122}
-        - {x: 63, y: -93}
-        - {x: 63, y: -25}
-    - name: Front-walk_left-L_walk_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_006
       rect:
         serializedVersion: 2
         x: 1
@@ -2441,21 +1611,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.57931, y: 0.4536083}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 40.000053, y: 84}
-        - {x: 27.000053, y: 158}
-        - {x: -72.99995, y: 158}
-        - {x: -77.99995, y: 141}
-        - {x: -77.99995, y: 64}
-        - {x: -57.999947, y: 42}
-        - {x: -77.99995, y: -45}
-        - {x: -77.99995, y: -98}
-        - {x: -32.999947, y: -132}
-        - {x: 15.000053, y: -132}
-        - {x: 61.000053, y: -109}
-        - {x: 61.000053, y: -22}
-        - {x: 54.000053, y: 8}
-    - name: Front-walk_left-L_walk_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_007
       rect:
         serializedVersion: 2
         x: 545
@@ -2465,18 +1624,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5675672, y: 0.46391758}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 9.000061, y: 156}
-        - {x: -62.99994, y: 156}
-        - {x: -75.99994, y: 132}
-        - {x: -75.99994, y: -66}
-        - {x: -69.99994, y: -90}
-        - {x: -22.999939, y: -135}
-        - {x: 13.000061, y: -135}
-        - {x: 61.00006, y: -95}
-        - {x: 61.00006, y: 16}
-        - {x: 38.00006, y: 131}
-    - name: Front-walk_left-L_walk_008
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_008
       rect:
         serializedVersion: 2
         x: 609
@@ -2486,18 +1637,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5785711, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -48.99994, y: 157}
-        - {x: -73.99994, y: 132}
-        - {x: -73.99994, y: -92}
-        - {x: -60.99994, y: -125}
-        - {x: -26.999939, y: -136}
-        - {x: 3.000061, y: -136}
-        - {x: 59.00006, y: -108}
-        - {x: 59.00006, y: 60}
-        - {x: 50.00006, y: 123}
-        - {x: 8.000061, y: 157}
-    - name: Front-walk_left-L_walk_009
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_009
       rect:
         serializedVersion: 2
         x: 441
@@ -2507,19 +1650,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5571425, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -57.99994, y: 157}
-        - {x: -71.99994, y: 154}
-        - {x: -71.99994, y: -91}
-        - {x: -37.99994, y: -123}
-        - {x: -23.999939, y: -126}
-        - {x: -10.999939, y: -122}
-        - {x: -1.999939, y: -136}
-        - {x: 51.00006, y: -136}
-        - {x: 59.00006, y: -117}
-        - {x: 59.00006, y: 91}
-        - {x: 37.00006, y: 157}
-    - name: Front-walk_left-L_walk_010
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_010
       rect:
         serializedVersion: 2
         x: 1807
@@ -2529,18 +1663,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.55395645, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -48, y: 157}
-        - {x: -67, y: 141}
-        - {x: -73, y: 121}
-        - {x: -73, y: -82}
-        - {x: -46, y: -131}
-        - {x: -32, y: -125}
-        - {x: 5, y: -136}
-        - {x: 34, y: -136}
-        - {x: 58, y: -115}
-        - {x: 58, y: 157}
-    - name: Front-walk_left-L_walk_011
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_011
       rect:
         serializedVersion: 2
         x: 1547
@@ -2550,15 +1676,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5629626, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21, y: 157}
-        - {x: -67, y: 157}
-        - {x: -73, y: 153}
-        - {x: -73, y: -136}
-        - {x: 46, y: -136}
-        - {x: 57, y: -101}
-        - {x: 57, y: 132}
-    - name: Front-walk_left-L_walk_012
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_012
       rect:
         serializedVersion: 2
         x: 318
@@ -2568,20 +1689,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5655169, y: 0.45918372}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -52.99994, y: 156}
-        - {x: -67.99994, y: 123}
-        - {x: -79.99994, y: 74}
-        - {x: -81.99994, y: -95}
-        - {x: -81.99994, y: -134}
-        - {x: -78.99994, y: -134}
-        - {x: -71.99994, y: -129}
-        - {x: -49.99994, y: -129}
-        - {x: -11.999939, y: -134}
-        - {x: 56.00006, y: -134}
-        - {x: 56.00006, y: 120}
-        - {x: 50.00006, y: 156}
-    - name: Front-walk_left-L_walk_013
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_013
       rect:
         serializedVersion: 2
         x: 563
@@ -2591,16 +1702,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5639094, y: 0.462069}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 27.000061, y: 156}
-        - {x: -56.99994, y: 156}
-        - {x: -71.99994, y: 131}
-        - {x: -71.99994, y: -131}
-        - {x: -1.999939, y: -131}
-        - {x: 47.00006, y: -126}
-        - {x: 58.00006, y: -112}
-        - {x: 58.00006, y: 107}
-    - name: Front-walk_left-L_walk_014
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_014
       rect:
         serializedVersion: 2
         x: 1531
@@ -2610,19 +1715,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5555552, y: 0.44982705}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 61, y: 146}
-        - {x: 24, y: 157}
-        - {x: -68, y: 157}
-        - {x: -72, y: 150}
-        - {x: -72, y: -90}
-        - {x: -61, y: -128}
-        - {x: -54, y: -129}
-        - {x: -44, y: -129}
-        - {x: -42, y: -126}
-        - {x: -44, y: -112}
-        - {x: 61, y: -126}
-    - name: Front-walk_left-L_walk_015
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_left-L_walk_015
       rect:
         serializedVersion: 2
         x: 1244
@@ -2632,18 +1728,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.57241344, y: 0.4536083}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 18, y: 154}
-        - {x: 6, y: 157}
-        - {x: -46, y: 157}
-        - {x: -74, y: 130}
-        - {x: -74, y: -126}
-        - {x: -68, y: -132}
-        - {x: 56, y: -132}
-        - {x: 61, y: -113}
-        - {x: 61, y: 42}
-        - {x: 51, y: 121}
-    - name: Front-walk_right-R_walk_000
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_000
       rect:
         serializedVersion: 2
         x: 297
@@ -2653,18 +1741,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3873243, y: 0.46391758}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10.000061, y: 156}
-        - {x: -25.000061, y: 143}
-        - {x: -30.000061, y: 70}
-        - {x: -53.00006, y: -30}
-        - {x: -53.00006, y: -109}
-        - {x: -47.00006, y: -134}
-        - {x: 68.99994, y: -134}
-        - {x: 81.99994, y: -80}
-        - {x: 84.99994, y: -45}
-        - {x: 84.99994, y: 156}
-    - name: Front-walk_right-R_walk_001
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_001
       rect:
         serializedVersion: 2
         x: 1
@@ -2674,18 +1754,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.39007127, y: 0.45918372}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 3.9999504, y: 158}
-        - {x: -23.00005, y: 135}
-        - {x: -37.00005, y: 31}
-        - {x: -54.00005, y: -24}
-        - {x: -54.00005, y: -124}
-        - {x: -46.00005, y: -135}
-        - {x: 45.99995, y: -135}
-        - {x: 85.999954, y: -82}
-        - {x: 85.999954, y: 131}
-        - {x: 78.999954, y: 158}
-    - name: Front-walk_right-R_walk_002
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_002
       rect:
         serializedVersion: 2
         x: 1822
@@ -2695,21 +1767,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37062973, y: 0.461017}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5, y: 159}
-        - {x: -47, y: 134}
-        - {x: -53, y: 82}
-        - {x: -53, y: -103}
-        - {x: -17, y: -126}
-        - {x: -8, y: -128}
-        - {x: 19, y: -129}
-        - {x: 10, y: -128}
-        - {x: 24, y: -135}
-        - {x: 40, y: -135}
-        - {x: 60, y: -127}
-        - {x: 89, y: -84}
-        - {x: 89, y: 159}
-    - name: Front-walk_right-R_walk_003
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_003
       rect:
         serializedVersion: 2
         x: 945
@@ -2719,19 +1780,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3648652, y: 0.4554795}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 80.99994, y: 158}
-        - {x: 78.99994, y: 159}
-        - {x: -30.000061, y: 159}
-        - {x: -54.00006, y: 94}
-        - {x: -54.00006, y: -99}
-        - {x: 6.999939, y: -133}
-        - {x: 22.999939, y: -133}
-        - {x: 30.999939, y: -128}
-        - {x: 79.99994, y: -87}
-        - {x: 88.99994, y: 34}
-        - {x: 88.99994, y: 133}
-    - name: Front-walk_right-R_walk_004
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_004
       rect:
         serializedVersion: 2
         x: 1237
@@ -2741,18 +1793,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3819448, y: 0.45862073}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5, y: 157}
-        - {x: -36, y: 128}
-        - {x: -39, y: 58}
-        - {x: -55, y: -18}
-        - {x: -55, y: -117}
-        - {x: -27, y: -130}
-        - {x: 62, y: -130}
-        - {x: 89, y: -89}
-        - {x: 89, y: 133}
-        - {x: 70, y: 157}
-    - name: Front-walk_right-R_walk_005
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_005
       rect:
         serializedVersion: 2
         x: 1095
@@ -2762,20 +1806,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37415, y: 0.4459931}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 89, y: 74}
-        - {x: 89, y: 135}
-        - {x: 73, y: 158}
-        - {x: -7, y: 158}
-        - {x: -24, y: 121}
-        - {x: -54, y: -29}
-        - {x: -54, y: -96}
-        - {x: -10, y: -126}
-        - {x: 71, y: -126}
-        - {x: 89, y: -90}
-        - {x: 89, y: -72}
-        - {x: 76, y: 6}
-    - name: Front-walk_right-R_walk_006
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_006
       rect:
         serializedVersion: 2
         x: 1
@@ -2785,22 +1819,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36734727, y: 0.4536083}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 86.999954, y: 63}
-        - {x: 86.999954, y: 148}
-        - {x: 74.999954, y: 158}
-        - {x: 1.9999504, y: 158}
-        - {x: -40.00005, y: 138}
-        - {x: -28.00005, y: 29}
-        - {x: -53.00005, y: -26}
-        - {x: -53.00005, y: -88}
-        - {x: -9.00005, y: -125}
-        - {x: 10.99995, y: -132}
-        - {x: 47.99995, y: -132}
-        - {x: 86.999954, y: -80}
-        - {x: 86.999954, y: -57}
-        - {x: 77.999954, y: 40}
-    - name: Front-walk_right-R_walk_007
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_007
       rect:
         serializedVersion: 2
         x: 465
@@ -2810,20 +1832,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.3732398, y: 0.4607509}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 60.99994, y: 156}
-        - {x: 54.99994, y: 157}
-        - {x: 2.999939, y: 157}
-        - {x: -28.000061, y: 131}
-        - {x: -50.00006, y: 82}
-        - {x: -52.00006, y: 57}
-        - {x: -52.00006, y: -117}
-        - {x: 0.99993896, y: -135}
-        - {x: 79.99994, y: -135}
-        - {x: 84.99994, y: -115}
-        - {x: 84.99994, y: 137}
-        - {x: 81.99994, y: 140}
-    - name: Front-walk_right-R_walk_008
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_008
       rect:
         serializedVersion: 2
         x: 292
@@ -2833,19 +1845,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37857178, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8.000061, y: 157}
-        - {x: -31.000061, y: 131}
-        - {x: -41.00006, y: 112}
-        - {x: -51.00006, y: 34}
-        - {x: -51.00006, y: -104}
-        - {x: -7.000061, y: -136}
-        - {x: 22.999939, y: -136}
-        - {x: 61.99994, y: -115}
-        - {x: 82.99994, y: -88}
-        - {x: 82.99994, y: 146}
-        - {x: 53.99994, y: 157}
-    - name: Front-walk_right-R_walk_009
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_009
       rect:
         serializedVersion: 2
         x: 1129
@@ -2855,21 +1858,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.38848957, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 81, y: 60}
-        - {x: 81, y: 139}
-        - {x: 57, y: 156}
-        - {x: 49, y: 157}
-        - {x: -8, y: 157}
-        - {x: -43, y: 123}
-        - {x: -50, y: 30}
-        - {x: -50, y: -110}
-        - {x: -8, y: -136}
-        - {x: 36, y: -136}
-        - {x: 81, y: -98}
-        - {x: 81, y: 33}
-        - {x: 78, y: 49}
-    - name: Front-walk_right-R_walk_010
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_010
       rect:
         serializedVersion: 2
         x: 1666
@@ -2879,19 +1871,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.38129532, y: 0.461017}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 54, y: 157}
-        - {x: 6, y: 157}
-        - {x: -12, y: 154}
-        - {x: -42, y: 121}
-        - {x: -37, y: 29}
-        - {x: -49, y: -18}
-        - {x: -49, y: -115}
-        - {x: -21, y: -136}
-        - {x: 52, y: -136}
-        - {x: 82, y: -121}
-        - {x: 82, y: 145}
-    - name: Front-walk_right-R_walk_011
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_011
       rect:
         serializedVersion: 2
         x: 1063
@@ -2901,16 +1884,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.36296332, y: 0.4625851}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 82, y: 157}
-        - {x: -46, y: 157}
-        - {x: -48, y: 150}
-        - {x: -48, y: -112}
-        - {x: -22, y: -136}
-        - {x: 70, y: -136}
-        - {x: 77, y: -125}
-        - {x: 82, y: -92}
-    - name: Front-walk_right-R_walk_012
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_012
       rect:
         serializedVersion: 2
         x: 751
@@ -2920,20 +1897,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.33812985, y: 0.46232882}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 82.99994, y: -29}
-        - {x: 81.99994, y: 83}
-        - {x: 76.99994, y: 145}
-        - {x: 46.99994, y: 156}
-        - {x: -17.000061, y: 156}
-        - {x: -47.00006, y: 119}
-        - {x: -47.00006, y: -125}
-        - {x: -37.00006, y: -134}
-        - {x: 66.99994, y: -134}
-        - {x: 79.99994, y: -130}
-        - {x: 90.99994, y: -123}
-        - {x: 90.99994, y: -101}
-    - name: Front-walk_right-R_walk_013
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_013
       rect:
         serializedVersion: 2
         x: 277
@@ -2943,19 +1910,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.386364, y: 0.45486116}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -5.000061, y: 156}
-        - {x: -50.00006, y: 132}
-        - {x: -50.00006, y: 95}
-        - {x: -28.000061, y: 50}
-        - {x: -50.00006, y: -37}
-        - {x: -50.00006, y: -125}
-        - {x: -49.00006, y: -131}
-        - {x: 74.99994, y: -131}
-        - {x: 80.99994, y: -130}
-        - {x: 80.99994, y: 137}
-        - {x: 62.99994, y: 156}
-    - name: Front-walk_right-R_walk_014
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_014
       rect:
         serializedVersion: 2
         x: 1270
@@ -2965,22 +1923,10 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.37226313, y: 0.45138896}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 4, y: 157}
-        - {x: -38, y: 133}
-        - {x: -51, y: 20}
-        - {x: -51, y: -89}
-        - {x: -47, y: -91}
-        - {x: -37, y: -91}
-        - {x: -50, y: -94}
-        - {x: -51, y: -96}
-        - {x: -51, y: -111}
-        - {x: -17, y: -114}
-        - {x: 47, y: -129}
-        - {x: 74, y: -129}
-        - {x: 81, y: -126}
-        - {x: 81, y: 157}
-    - name: Front-walk_right-R_walk_015
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Front-walk_right-R_walk_015
       rect:
         serializedVersion: 2
         x: 1383
@@ -2990,18 +1936,8 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.38571465, y: 0.45674744}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 53, y: 157}
-        - {x: -9, y: 157}
-        - {x: -42, y: 121}
-        - {x: -52, y: 55}
-        - {x: -52, y: -105}
-        - {x: -39, y: -119}
-        - {x: 9, y: -132}
-        - {x: 59, y: -132}
-        - {x: 83, y: -96}
-        - {x: 83, y: 139}
-        - {x: 79, y: 149}
+      outline: []
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 
