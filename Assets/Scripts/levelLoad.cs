@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class levelLoad : MonoBehaviour {
+public class levelLoad : MonoBehaviour
+{
 
     /* YO HERE'S HOW THIS WORKS
 	 * LevelMaster has the levelLoad.cs script. This script has all of the level prefabs loaded into is GameObject array.
@@ -16,45 +17,48 @@ public class levelLoad : MonoBehaviour {
 	 * 
 	 */
 
-    public GameObject saveFile;
-	public GameObject[] allLevels;
+    public GameObject[] allLevels;
 
-	public int levelCount = 0;
+    public int levelCount = 0;
 
-	private GameObject thisLevel;
-	private GameObject nextLevel;
-	private Transform spawnPoint;
-	private Vector3 spawnDifference;
+    private GameObject thisLevel;
+    private GameObject nextLevel;
+    private Transform spawnPoint;
+    private Vector3 spawnDifference;
 
 
-	void Start () {
-		levelSetup ();	
-	}
-
-	private void levelSetup() {
-		string thisLevelName = allLevels [levelCount].name;
-		thisLevel = GameObject.Find (thisLevelName + "(Clone)");
-		nextLevel = allLevels [levelCount + 1];
-
-		spawnPoint = thisLevel.transform.Find ("SpawnNext");
-
-		Debug.Log (spawnDifference);
-	}
-
+    void Start()
+    {
+        levelSetup();
     }
 
-	public void levelTrigger() {
-		if (levelCount < allLevels.Length) {
-			Instantiate (nextLevel, spawnPoint.position, spawnPoint.rotation);
+    private void levelSetup()
+    {
+        string thisLevelName = allLevels[levelCount].name;
+        thisLevel = GameObject.Find(thisLevelName + "(Clone)");
+        nextLevel = allLevels[levelCount + 1];
 
-			levelCount += 1;
+        spawnPoint = thisLevel.transform.Find("SpawnNext");
 
-			// This shit is really finnicky so levelSetup() needs to be called after a 1 sec delay.
-			Invoke ("levelSetup", 1);
-		}
-	}
+        Debug.Log(spawnDifference);
+    }
 
-	void Update () {
-	
-	}
+    public void levelTrigger()
+    {
+        if (levelCount < allLevels.Length)
+        {
+            Instantiate(nextLevel, spawnPoint.position, spawnPoint.rotation);
+
+            levelCount += 1;
+            
+
+            // This shit is really finnicky so levelSetup() needs to be called after a 1 sec delay.
+            Invoke("levelSetup", 1);
+        }
+    }
+
+    void Update()
+    {
+
+    }
 }

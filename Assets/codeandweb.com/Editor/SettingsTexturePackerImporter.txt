@@ -1,11 +1,8 @@
 version: 2
 importPivots: 1
 tpsheetFileNames:
-- Assets/Testing-Ana/Sprites/Player/Player.tpsheet
 - Assets/Testing-Ana/Sprites/Player/Player_back.tpsheet
 textureFileNames:
-- Assets/Testing-Ana/Sprites/Player/Player.png
 - Assets/Testing-Ana/Sprites/Player/Player_back.png
 normalmapFileNames:
-- 
 - 

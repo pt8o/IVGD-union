@@ -1,5 +1,7 @@
 ﻿
-
+/*
+ * THIS IS A SHITTY SCRIPT IGNORE IT
+ * 
 using UnityEngine;
 using System.Collections;
 using System.Xml;
@@ -94,7 +96,7 @@ public class gameEngine : MonoBehaviour
             Load();
             
         }
-        if (Input.GetKeyDown(KeyCode.S))
+        if (Input.GetKeyDown(KeyCode.K))
             Save();
     }
 }
@@ -149,7 +151,7 @@ public class Fade : MonoBehaviour
      * 
      * }
      * */
-     
+     /*
     void onEnable()
     {
         //tell OnLevelFinishedLoading to start listening for a scene change.
@@ -169,4 +171,4 @@ public class Fade : MonoBehaviour
         BeginFade(-1);
     }
 }
-
+*/
